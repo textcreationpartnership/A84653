@@ -1,0 +1,942 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall queries concerning the church of Jesus Christ upon earth, briefly explained and resolved wherein is shewed and proved, 1. That there is a church of Jesus Christ upon earth. 2. What this church is? 3. How a people become a visible church? 4. That the churches in England were at first rightly constituted? 5. What manner of government Jesus Christ hath ordained in and for his church? 6. What manner of persons those ought to be, that may be continued in, or admitted into the church? 7. What is the duty of church members towards Jesus Christ their head, and one another. / By John Flowre M.A. preacher at Staunton in the county of Nottingham.</title>
+            <author>Flower, John, b. 1623 or 4.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 109 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84653</idno>
+            <idno type="STC">Wing F1386</idno>
+            <idno type="STC">Thomason E2141_2</idno>
+            <idno type="STC">ESTC R208378</idno>
+            <idno type="EEBO-CITATION">99867332</idno>
+            <idno type="PROQUEST">99867332</idno>
+            <idno type="VID">119639</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84653)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119639)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 243:E2141[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall queries concerning the church of Jesus Christ upon earth, briefly explained and resolved wherein is shewed and proved, 1. That there is a church of Jesus Christ upon earth. 2. What this church is? 3. How a people become a visible church? 4. That the churches in England were at first rightly constituted? 5. What manner of government Jesus Christ hath ordained in and for his church? 6. What manner of persons those ought to be, that may be continued in, or admitted into the church? 7. What is the duty of church members towards Jesus Christ their head, and one another. / By John Flowre M.A. preacher at Staunton in the county of Nottingham.</title>
+                  <author>Flower, John, b. 1623 or 4.</author>
+               </titleStmt>
+               <extent>[16], 96 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Mabb for Edward Thomas and are to be sold at his shop at the signe of the Adam and Eve in Little-brittain neer the Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Novemb:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119639:1" rendition="simple:additions"/>
+            <p>SEVERALL QUERIES concerning the CHVRCH of <hi>JESUS CHRIST</hi> upon Earth, briefly ex<g ref="char:EOLhyphen"/>plained and Reſolved.</p>
+            <p>Wherein is ſhewed and proved,
+<list>
+                  <item>1. <hi>That there is a Church of Jeſus Chriſt upon earth.</hi>
+                  </item>
+                  <item>2. <hi>What this Church is?</hi>
+                  </item>
+                  <item>3. <hi>How a People become a Viſible Church?</hi>
+                  </item>
+                  <item>4. <hi>That the Churches in</hi> England <hi>were at firſt right<g ref="char:EOLhyphen"/>ly Conſtituted?</hi>
+                  </item>
+                  <item>5. <hi>What manner of Government</hi> Jeſus Chriſt <hi>hath ordained in and for his Church?</hi>
+                  </item>
+                  <item>6. <hi>What manner of Perſons thoſe ought to be, that may be continued in, or admitted into the Church?</hi>
+                  </item>
+                  <item>7. <hi>What is the duty of Church members towards Je<g ref="char:EOLhyphen"/>ſus Chriſt their head, and one another.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>By <hi>John Flowre</hi> M. A. Preacher at <hi>Staun<g ref="char:EOLhyphen"/>ton</hi> in the County of <hi>Nottingham.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Mabb</hi> for <hi>Edward Thomas</hi> and are to be ſold at his Shop at the ſigne of the <hi>Adam</hi> and <hi>Eve</hi> in <hi>Little-brittain</hi> neer the Church, 1658.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119639:2"/>
+            <pb facs="tcp:119639:2"/>
+            <head>TO THE <hi>Right Honourable,</hi> EDVVARD <hi>Lord,</hi> WHALEY, <hi>Lievetenant Generall of the Army: under his Highneſs</hi> OLIVER <hi>Lord Protector of the Common<g ref="char:EOLhyphen"/>wealth of</hi> England, Scotland, <hi>and</hi> Ireland, <hi>and the Dominions there<g ref="char:EOLhyphen"/>to belonging.</hi>
+            </head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>THis which was at firſt <hi>conceived</hi> for the uſe and direction of my own Congregation; I have at the deſire of ſome private Friends, ſuf<g ref="char:EOLhyphen"/>fered to be <hi>brought forth</hi> to a more pub<g ref="char:EOLhyphen"/>lick view; and I have alſo made bold to tender it to your Honour, which though I confeſs unworthy either of your judgment or acceptance; yet the coun<g ref="char:EOLhyphen"/>tenance and many reſpects which I have received from you, have heightned me to this preſumption; hoping you will pleaſe to pardon that confidence in me, which your own favours and encour<g ref="char:EOLhyphen"/>agements have begotten. I hope I have not in this offended againſt the truth; I am ſure I have not willingly, nor
+<pb facs="tcp:119639:3"/>wittingly, if I have through ignorance, or miſtake, I ſhall willingly be rectified, and be glad to ſee my errours: There<g ref="char:EOLhyphen"/>fore in ſuch ca<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e— <hi>Let the righteous ſmite me,</hi>
+               <note place="margin">Pſ. 141.5.</note> 
+               <hi>and it ſhall be a kindneſſe, let him reprove me, it ſhall be an excellent oyle which ſhall not break my head.</hi>
+            </p>
+            <p>In <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y pre<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enting this ſmall piece to your honour, my ambition is onely to make an honourable and thankfull mention of your name: your deſerts h ve merited a better monument than I am able to elect for them.</p>
+            <p>Your Noble and civill deportment towards all in the Counties, more eſpe<g ref="char:EOLhyphen"/>cially under your Command; chiefly your countenancing and encouraging of the pious &amp; painfull Miniſters of the Goſpel, hath juſtly gained you a good report of <hi>all men,</hi> and of the <hi>truth it ſelf;</hi> which honour that you may alwayes have, by ſtill co tinuing <hi>ſtedfaſt,</hi> and <hi>un<g ref="char:EOLhyphen"/>moveable, and always abounding in the work the Lord,</hi> is the prayer of</p>
+            <closer>
+               <signed>Your Honours moſt obliged in all duty and ſervice, <hi>JOHN FLOWRE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:119639:3"/>
+            <head>TO My much eſteemed friends and neigh<g ref="char:EOLhyphen"/>bours the Inhabitants of the Town and Pariſh of <hi>Staunton,</hi> in the <hi>County</hi> of <hi>Nottingham:</hi>
+            </head>
+            <p>BY the providence of the moſt high,
+<note place="margin">Iſa 7. Acts 17.26.</note> that hath <hi>appointed the tit es that are comming, and ſhall come, an <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>termined the bounds of each one ha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<g ref="char:EOLhyphen"/>tation,</hi> I am ſeated among you in this place,
+<note place="margin">Pſ. 16.6.</note> and I hope I ſhall have no other cauſe but that I may ſay with the Pſalmiſt, <hi>the lines are fallen unto me in a good place:</hi>
+            </p>
+            <p>I account not that ſo much a good place where there are good fields good corne, good paſture — But I account that a good place, where there is a good people, a people ſwift to hear, willing to be reformed ready to ſub<g ref="char:EOLhyphen"/>mit to the Scepter, and dominion of the Lord Jeſus, and not crying ou<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like thoſe Rebelli<g ref="char:EOLhyphen"/>ous Jews—
+<note place="margin">Lu 7.19.14</note> 
+               <hi>we will not have this man reigne over us.</hi> I account ſuch a place a good place, for it is not the <hi>fatneſſe</hi> of the ſoile, but the <hi>fear</hi> of the Lord that maketh rich:</p>
+            <p>I bleſſe God I have received no diſcou<g ref="char:EOLhyphen"/>ragment ſince I came amongſt you; I have not
+<pb facs="tcp:119639:4"/>found you ſtubborne or perverſe, froward, or refractory, or reſiſters of the word of truth, which hath been delivered to you, but I have found you rather humble and meek, and wil<g ref="char:EOLhyphen"/>ling to imbrace the Goſpel, which as it is your <hi>praiſe,</hi> ſo it is alſo my <hi>happineſſe</hi> and joy;</p>
+            <p>For what is it that makes the life of a Miniſter of the Goſpel comfortable? I tell you (if he be a man that truly fears God, and is faithfull to his maſter) it is not the greatneſſe of his Living, the fulneſs of his barnes — But it is the obedience of his people to goſpel-precepts, their growing in grace, their adding to <hi>faith vertue, and to vertue knowledge, and to know<g ref="char:EOLhyphen"/>ledge temperance,</hi>
+               <note place="margin">2. <hi>Pet.</hi> 1.5.</note> 
+               <hi>and to temperance patience, and to patience godlineſs, and to godlineſſe brotherly kindneſſe, and to brotherly kindneſſe charity;</hi> their willingneſſe to be reformed, their readineſſe to receive the truth with love, their not be<g ref="char:EOLhyphen"/>ing barren nor unfruitfull in the knowledge of our Lord Jeſus Chriſt:</p>
+            <p>O! The bleſſing of God upon his labours in Spiritualizing his people, this refreſheth him, when he ſeeth <hi>dead people quickned, enemies to Chriſt reconciled, children of wrath become children of grace, thoſe that were afar off, now made nigh,
+<pb facs="tcp:119639:4"/>ſtrangers from the covenant now in<g ref="char:EOLhyphen"/>tereſted in the promiſe,</hi> there is no grea<g ref="char:EOLhyphen"/>ter joy to a ſincere miniſter of the Goſpel than this.</p>
+            <p>This was St.
+<note place="margin">3 Ioh. 1.4.</note> 
+               <hi>Johns</hi> greateſt comfort — <hi>I have no greater joy than to hear that my children walke in the truth.</hi>
+            </p>
+            <p>O what a rejoycing is this! when a Mi<g ref="char:EOLhyphen"/>niſter can ſay of his people, as St. <hi>Paul</hi> could of his <hi>Corinthians,
+<note place="margin">1 Cor. 6.11</note> —But ye are waſhed but ye are ſanctified</hi> — and to the <hi>Ro<g ref="char:EOLhyphen"/>mans</hi> to whom he preached— <hi>Ye were the Servants of ſin, but ye have obeyed from the heart the forme of doctrine which was delivered unto you:</hi>
+               <note place="margin">Ro. 6.17.</note>
+            </p>
+            <p>But ah! what woe is it to a faithfull mi<g ref="char:EOLhyphen"/>niſter, that when he hath ſpent himſelf, and his pains for many years, yet is forced to com<g ref="char:EOLhyphen"/>plaine with the Prophet— <hi>Lord who hath beleeved our report?</hi>
+               <note place="margin">Iſa. 53.1.</note> 
+               <hi>They were ſervants of ſin, and they are ſo ſtill, they have not obeyed from the heart the form of doctrine delivered to them:</hi>
+            </p>
+            <p>
+               <hi>They were thieves, covetuous, whore<g ref="char:EOLhyphen"/>mongers, drunkards, Revilers, Scorners and they are ſo ſtill, — they are not waſhed, they are not ſanctified</hi> — an<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is an heart-breaking to a ſincere Mini<g ref="char:EOLhyphen"/>ſter of Jeſus Chriſt, and many ſuch there are
+<pb facs="tcp:119639:5"/>that with the Prophet,
+<note place="margin">Ier. 13.17.</note> mourn in ſecret for this thing.</p>
+            <p>I muſt confeſſe. I have what reſpects I can deſire from you in relation to things temporal, and my endeavours ſhall be to gratifie you with things that are ſpirituall, which are of the greateſt concernment in the world.</p>
+            <p>Our main buſineſſe in this world ſhould be, to labor to <hi>make your calling and election ſure— To be diligent that at the ap<g ref="char:EOLhyphen"/>pearing of our Lord Jeſus Chriſt to judg<g ref="char:EOLhyphen"/>ment we may be found without ſpot and blameleſs:</hi> men indeed make other buſineſſe then this, But alaſs! That ſo little regarded ſaying of our Lord Jeſus Chriſt will be pro<g ref="char:EOLhyphen"/>ved true one day —<hi>What will it pro<g ref="char:EOLhyphen"/>fit a man to win the world and loſe his ſoule?</hi>
+            </p>
+            <p>While providence ſhall continue me among you in this place, my endeavour ſhall be (by Gods aſſiſtance) to ſet you in heaven-way, to be plaine, and faithfull to you in things of ſoul concernment;</p>
+            <p>To tell you that you are altogether ſuch as ye ought to be, all reall chriſtians, a vi<g ref="char:EOLhyphen"/>ſible Church, ſuch as have a right to the ſa<g ref="char:EOLhyphen"/>crament, an intereſt in the promiſes — I dare not ſow ſuch pillows under your armes if I ſhould, well might you ſuſpect me of daub<g ref="char:EOLhyphen"/>ing, I mean, with untempred morter.</p>
+            <pb facs="tcp:119639:5"/>
+            <p>But I ſhall endeavour to ſhew you out of the Scriptures, who are Chriſtians indeed, not only by a change of name, but by a change of nature alſo; who are a true viſible Church of Jeſus Chriſt: what manner of perſons they are and ought to be, to whom Seals and Promiſes are given, and if you be, or become ſuch, then may I tell you without deceiving you, that you are Christians indeed, a Church indeed, have a right to the Seals and promiſes of the Go<g ref="char:EOLhyphen"/>ſpel indeed.</p>
+            <p>If a Pariſh or People be altogether pro<g ref="char:EOLhyphen"/>fane, atheiſticall, dead in ſins and treſpaſſes, without any favour or taſte of ſpirituall things— To tell ſuch a people that they are good Chriſtians, a viſible Church, have a right to the Sacrament— is no other then to cheat them of the truth, harden them in their ſins, and lead them blindfold to deſtru<g ref="char:EOLhyphen"/>ction: A formall and generall Preacher that words, and phraſes out his own wiſdom, tickling the ears without touching the hearts or awaking the conſciences of his hearers, he may have the praiſe and applauſe of men, but not the praiſe and peace of God; give me the latter, let who will take the for<g ref="char:EOLhyphen"/>mer.</p>
+            <pb facs="tcp:119639:6"/>
+            <p>It will be worth all his pains and ſuffer<g ref="char:EOLhyphen"/>ings, if a Miniſter drawing men to his latter end, and ready to give up an account of his ſtewardſhip, can appeale unto God and his Congregation, as once <hi>Samuel</hi> (ready to die) did unto the people in another caſe, <hi>1 Sam. 12.— Whoſe Oxe or whoſe Aſs have I taken? whom have I defrauded?</hi> So when a Miniſter, — what ſoul have I be<g ref="char:EOLhyphen"/>guiled? What ſoul have I defrauded? What ſoul have I hardened in ſin by covering, and not diſcovering the truth, and danger of its eſtate to it? What people have I deceived by telling them, they were Christians, when they were not? a Church, when they were not, had a right to the Kingdome of heaven, and the ſeals thereof when they had not? to be able to ſay thus, will be worth ſome<g ref="char:EOLhyphen"/>thing one day; O that all that take upon them the Miniſtry of the Goſpel would con<g ref="char:EOLhyphen"/>ſider this. If plain dealing have outward diſturbance, yet it hath inward peace.</p>
+            <p>But indeed an ingenious people, whoſe reaſon and underſtanding is not quite lost, or infatuated, will in time make good that ſay<g ref="char:EOLhyphen"/>ing of the wiſe mans; Pro. <hi>28.23. That he that rebuketh a man afterward ſhall finde more favour, than he that flatter<g ref="char:EOLhyphen"/>eth with his tongue.</hi>
+            </p>
+            <pb facs="tcp:119639:6"/>
+            <p>My endeavour therefore ſhall be to cauſe you to know your miſerable eſtate by nature, and the remedy thereof by grace; To cauſe you to look into that great myſtery, the infi<g ref="char:EOLhyphen"/>nite love of God in Jeſus Chriſt, in that great work of your dedemption through him, that ye may know the <hi>Lord Jeſus &amp; the pow<g ref="char:EOLhyphen"/>er of his Reſurrection, and the fellow<g ref="char:EOLhyphen"/>ſhip of his ſufferings, being made con<g ref="char:EOLhyphen"/>formable unto his death:</hi> That when I am called to give an account of my Steward<g ref="char:EOLhyphen"/>ſhip amongſt you, I may do it with joy, and not with griefe: Miniſters of all men had need to look about them, for they muſt give account for more ſouls than their own; and if any be loſt through their default,
+<note place="margin">Ezek. 3.18</note> that blood will be required at their bands:</p>
+            <p>I would not at the day of judgement be found in the condition of a negligent, idle, Paſtor, that hath fleec'd, and not fed his flock, for ten thouſand worlds: Not in his con<g ref="char:EOLhyphen"/>dition,
+<note place="margin">1 Cor. 2.4</note> 
+               <hi>that daubs with untemperd mor<g ref="char:EOLhyphen"/>ter, that ſpeaks ſmooth things, that preacheth not in the demonſtration of the ſpirit, and of power, but with the inticing words of mans wiſdome.</hi>
+            </p>
+            <p>For fearefull will be the end of ſuch a man when Jeſus Chriſt and he ſhall reckon
+<pb facs="tcp:119639:7"/>together; for ſo many ſheep, loſt through the eareleſneſs of the ſhepheard.</p>
+            <p>It was the ſaying of one, That <hi>of all men that ſhould be ſaved Miniſters ſhould be the feweſt:</hi> Indeed they have the greateſt charge, and are ſubject to the ſoreſt tempta<g ref="char:EOLhyphen"/>tions, and it is to be feared that many Mini<g ref="char:EOLhyphen"/>ſters, either for fear or love, or ſome other worldly reſpect may offend too much againſt their commiſſion, which bids them <hi>cry a<g ref="char:EOLhyphen"/>loud and ſpare not,</hi>
+               <note place="margin">Iſa. 58.1.</note> 
+               <hi>lift up thy voice like a trumpet, ſhew my people their ſinns, and the houſe of Iſrael their tranſgreſ<g ref="char:EOLhyphen"/>ſions;</hi> and ſo hazard themſelves too neere the pickes of Gods eternall vengeance and diſpleaſure; which thing of all other I moſt fear; and therefore through grace ſhall la<g ref="char:EOLhyphen"/>bour to avoid; which I cannot do, unleſſe I look ſtrictly unto you over whom I ſet an O<g ref="char:EOLhyphen"/>verſeer; therefore blame me not if I be plain and earnest with you to preſs you for<g ref="char:EOLhyphen"/>ward <hi>towards the mark of the price of the high calling of God in Chriſt Jeſus;</hi>
+               <note place="margin">Phil. 3: 14.</note> If I ſhould be negligent herein, your blood would be upon my head; The Lord pardon my neglects past.</p>
+            <p>I had rather diſturbe my own peace (if it muſt be ſo) and trouble the water to ſtir you out of the lees of carnall ſecurity, than to
+<pb facs="tcp:119639:7"/>have you curſe me, and accuſe me before God at the day of judgement, for the decei<g ref="char:EOLhyphen"/>ver and betrayer of your ſoules.</p>
+            <p>I bleſſe God I can ſay (through the grace given me) that my deſtre is (ſo farre as I know my own heart) not to ſeek <hi>yours</hi> but <hi>you;</hi> I had rather ſee you thrive in <hi>ſpiri<g ref="char:EOLhyphen"/>tuals</hi> than my ſelf in <hi>temporals;</hi> and my greateſt encouragement among you will be, <hi>to ſee you walking in and obedient un<g ref="char:EOLhyphen"/>to the truth.</hi>
+            </p>
+            <p>
+               <hi>If you will give up your names to Je<g ref="char:EOLhyphen"/>ſus Chriſt, if you will obey the Goſpel, and not run with the wicked of the world into the ſame exceſs of riot, you muſt look for many oppoſitions, affronts, ſcornes, reproaches — but paſſe thorough all theſe with patience, looking unto the End, Jeſus, the Au<g ref="char:EOLhyphen"/>thor and Finiſher of your Faith; who for the joy that was ſet before him, en<g ref="char:EOLhyphen"/>dured the Croſs, deſpiſing the ſhame,</hi>
+               <note place="margin">Heb. 12.1.</note> 
+               <hi>and is now ſet down at the right-hand of God; and there if you run with pa<g ref="char:EOLhyphen"/>tience the race that is ſet before you, ſhall you ſit down alſo; — For which things ſake I ſhall alwayes bow my knees unto the Father of our Lord Jeſus Chriſt, and that he would grant you,
+<pb facs="tcp:119639:8"/>according to the riches of his glory, to be ſtrengthened with might,</hi>
+               <note place="margin">
+                  <hi>Epheſ.</hi> 3.14.</note> 
+               <hi>by his Spi<g ref="char:EOLhyphen"/>rit in the inward man: That Chriſt may dwell in your hearts by faith, that ye being rooted and grounded in love, may be able to comprehend with all Saints, what is the breadth, and length, and depth, and height, and to know the love of Chriſt, which paſſeth know<g ref="char:EOLhyphen"/>ledge. That ye might be filled with all the fulneſs of God.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>Feb. <hi>2. 1657.</hi>
+                  </date>
+               </dateline>
+               <signed>J. FLOWRE.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:119639:8"/>
+            <pb facs="tcp:119639:9"/>
+            <head>Severall Queſtions concerning the Church of Jeſus Chriſt upon earth.</head>
+            <head>Concerning the Church of our Lord Jeſus Chriſt upon earth, I find theſe Queſtions moved a<g ref="char:EOLhyphen"/>mongſt others:</head>
+            <list>
+               <item>Firſt,WHether there be any ſuch thing as a Church of Jeſus Chriſt upon earth?</item>
+               <item>Secondly, What is the Church of Jeſus Chriſt?</item>
+               <item>Thirdly, How do a people become a true viſible Church of Jeſus Chriſt at firſt?</item>
+               <item>Fourthly, Whether the Churches of <hi>England</hi> vvere at firſt rightly conſtituted?</item>
+               <item>Fifthly, What Government hath Jeſus Chriſt Ordained in and for his Church?</item>
+               <item>Sixthly, What manner of perſons thoſe ought to be, that are in the judgement of Charity to be lookt upon as viſible Members of the Church?</item>
+               <item>Seaventhly, What are the duties of Church-Members towards Jeſus Chriſt, and one an<g ref="char:EOLhyphen"/>other?</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119639:9"/>
+            <head>Severall Queries con<g ref="char:EOLhyphen"/>cerning the Church of Chriſt.</head>
+            <div n="1" type="section">
+               <head>Section I. Containing an Anſwer to the firſt Queſtion.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>F there were not thoſe that denied the Scriptures to be the word of God, and Jeſus Chriſt the Son of God, it might then be ad<g ref="char:EOLhyphen"/>mired that any ſhould queſtion,</p>
+               <p>
+                  <hi>Whether there be a Church of Je<g ref="char:EOLhyphen"/>ſus
+<pb n="2" facs="tcp:119639:10"/>Chriſt a upon earth?</hi> For to deny this is to deny an Article of the Chriſtian Creed, to accuſe the holy Scriptures of folly and impertinen<g ref="char:EOLhyphen"/>ces, to defame our Lord and Saviour Jeſus Chriſt.</p>
+               <p>If there be no ſuch thing as a Church of his upon earth, what meant our Lord Jeſus Chriſt when he ſaid—
+<note n="*" place="margin">Mat. 16.8</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon this Rock will I build my Church?</hi> What meant St. <hi>Paul,</hi>
+                  <note place="margin">1 Cor. 1.2. 2 Cor. 1.1.</note> when he directed his Epiſtle <hi>to the Church of God which is at Co<g ref="char:EOLhyphen"/>rinth?</hi>
+                  <note place="margin">Rev. 2.</note> Why doth the <hi>Spirit</hi> write <hi>to the Angel of the Church of Epheſus, of the Church in Smyrna?</hi>
+               </p>
+               <p>Thoſe therefore that deny a Church of Jeſus Chriſt upon earth are not of ſo much worth as either to be named, or diſputed withall, but they are to be rejected by all ſober and judicious Chriſtians, as thoſe that have together with their <hi>Faith</hi> made ſhiprack of their <hi>Reaſon</hi> alſo.</p>
+            </div>
+            <div n="2" type="section">
+               <pb n="3" facs="tcp:119639:10"/>
+               <head>
+                  <hi>Section.</hi> II. Containing an anſwer to the ſe<g ref="char:EOLhyphen"/>cond Queſtion, <hi>What is the Church of Jeſus Chriſt?</hi>
+               </head>
+               <p>The word which in Engliſh is rendred a <hi>Church,</hi> is in the O<g ref="char:EOLhyphen"/>riginall <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which word is u<g ref="char:EOLhyphen"/>ſed in the Goſpel to ſignifie a Church of Jeſus Chriſt: And this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or Church doth ſignifie <hi>A company Called out;</hi> from <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies to <hi>call out from among others.</hi>
+               </p>
+               <p>And again this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which we Tranſlate <hi>a Church</hi> is ſometimes uſed to ſignifie any aſ<g ref="char:EOLhyphen"/>ſembly called together upon any occaſion;
+<note place="margin">
+                     <hi>Act.</hi> 19.33.</note> 
+                  <hi>For the Aſſembly was con<g ref="char:EOLhyphen"/>fuſed;</hi> the word then tranſlated aſ<g ref="char:EOLhyphen"/>ſembly is in the Original <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, ſo the ſame word is rendred an aſ<g ref="char:EOLhyphen"/>ſembly, <hi>Act.</hi> 19.39, 41.</p>
+               <p>But this word <hi>Eccleſia,</hi> or Church,
+<pb n="4" facs="tcp:119639:11"/>we in our ſpeech do uſe, to ſignifie a ſacred aſſembly or meeting, or combination of Gods people.</p>
+               <p>Our Engliſh word <hi>Church</hi> ſigni<g ref="char:EOLhyphen"/>fies an aſſembly of Gods people, or thoſe that deſire to fear the Lord; For it is very probable that our word <hi>Church,</hi> com's from the Ger<g ref="char:EOLhyphen"/>man word <hi>Kirch,</hi> which is derived from the Greek word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, which ſignifies the flock or people of God.</p>
+               <p>We uſe the word <hi>Church</hi> alſo by a Metonymie, for the place, or houſe where the Church or the people of God meet,
+<note place="margin">1 <hi>Cor.</hi> 11.18</note> Calling that a Church.</p>
+               <p>But to ſpeak properly, the Church of Jeſus Chriſt is his peo<g ref="char:EOLhyphen"/>ple built of living and not of <hi>dead</hi> and <hi>ſenſleſs ſtones;</hi>
+                  <note place="margin">1 <hi>Pet.</hi> 2.5.</note> and this Church of Jeſus Chriſt is a company of people
+<note n="*" place="margin">
+                     <hi>Joh.</hi> 15.19. <hi>Rev.</hi> 18 4.</note> call'd out of the world, ſerving Jeſus Chriſt as their Lord and King,
+<note n="*" place="margin">1 <hi>Theſ.</hi> 4 7. <hi>Rom.</hi> 6.17. <hi>Act.</hi> 2.42.</note> Living under, and ſub<g ref="char:EOLhyphen"/>mitting
+<pb n="5" facs="tcp:119639:11"/>unto all his holy ordinan<g ref="char:EOLhyphen"/>ces.</p>
+               <p>A true viſible Church of Jeſus Chriſt is not a profane, wicked aſ<g ref="char:EOLhyphen"/>ſembly, an aſſembly of Notorious Drunkards, Whoremongers Swea<g ref="char:EOLhyphen"/>rers, and the like; But an holy aſ<g ref="char:EOLhyphen"/>ſembly, called out from among theſe;
+<note n="*" place="margin">1 <hi>Cor.</hi> 6.11</note> 
+                  <hi>Such were ſome of you, but ye are waſhed, but ye are Sanctified.</hi>
+               </p>
+               <p>Not an aſſembly of ſuch as only ſerve their own <hi>bellies, luſts, paſſions ſin, ſatan,</hi> the <hi>times,</hi> but an aſſemb<g ref="char:EOLhyphen"/>ly of ſuch as turn from theſe Idols to ſerve the living and true God.</p>
+               <p>Not an aſſembly refractory, and diſobedient to Goſpel-Ordinances mockers &amp; ſcoffers of holy things and duties, But ſuch as do ſubmit themſelves to the Laws, commands ordinances of Jeſus Chriſt as their duty, and but
+<note n="*" place="margin">
+                     <hi>Rom.</hi> 12.1.</note> 
+                  <hi>Reaſonable ſervice.</hi>
+               </p>
+            </div>
+            <div n="3" type="section">
+               <pb n="6" facs="tcp:119639:12"/>
+               <head>
+                  <hi>Section.</hi> III. Containing an anſwer to the third queſtion? <hi>How do a people be<g ref="char:EOLhyphen"/>come a true viſible church of Jeſus Chriſt at firſt?</hi>
+               </head>
+               <p>A People become a true viſible Church of Jeſus Chriſt by entering into an holy covenant with the Lord, to take him for their God and King, to be ruled and directed by his word, and to ſubmit unto all his holy ordinan<g ref="char:EOLhyphen"/>ces.</p>
+               <p>Thus we finde in the Scripture when God did conſtitute <hi>Abra<g ref="char:EOLhyphen"/>ham's</hi> Family a church, I mean re<g ref="char:EOLhyphen"/>ceive them into a church-eſtate, it was by entering them into ſuch a
+<note n="*" place="margin">
+                     <hi>Gen.</hi> 17.</note> covenant as before, of which circumciſion was a ſeale.</p>
+               <p>That which they covenanted with God was,
+<note n="*" place="margin">
+                     <hi>Gen.</hi> 17.1</note> 
+                  <hi>To walk before him and be perfect;</hi> and God covenan<g ref="char:EOLhyphen"/>ted
+<pb n="7" facs="tcp:119639:12"/>with them to
+<note n="*" place="margin">
+                     <hi>verſe</hi> 7.</note> be their God, and the God of their feed, and ſo they came into a church-eſtate. This was the way of the Apoſtles in their conſtitution of Churches; Thoſe people whom the Apoſtles did receive into a church-eſtate, it was by engaging them to ſerve the Lord Jeſus Chriſt, and to ſub<g ref="char:EOLhyphen"/>mit to his holy ordinances.</p>
+               <p>This is plain if we read the 2. of the <hi>Acts v.</hi> 41. There were three thouſand received into a church-eſtate, which before neither were a church, nor of the church of Je<g ref="char:EOLhyphen"/>ſus Chriſt; And how came theſe to be a church? why <hi>v.</hi> 41.
+<note place="margin">
+                     <hi>v.</hi> 41.</note> they gladly received the word preach<g ref="char:EOLhyphen"/>ed to them; according to that word <hi>v.</hi> 38.
+<note place="margin">
+                     <hi>v.</hi> 38:</note> they did evidence their re<g ref="char:EOLhyphen"/>pentance for Sin paſt, (which in<g ref="char:EOLhyphen"/>cludes an engagement to ſerve God for the future) and upon this they were baptized, and became a church, <hi>v.</hi> 41.</p>
+               <pb n="8" facs="tcp:119639:13"/>
+               <p>So when the Apoſtles received particular perſons into the Church which before were not of it, theſe did covenant for to take the Lord for their God, to own, and ſerve him, &amp; ſo they became added un<g ref="char:EOLhyphen"/>to the church. <hi>Acts</hi> 19. <hi>many be<g ref="char:EOLhyphen"/>came added unto the Church,</hi> But we read that they were ſuch as believed, ſuch as confeſſed their ſins, ſuch as ſhewed their deeds, ſuch as burned their profane books, — Thus they covenanting to ſerve the Lord were received into the church.</p>
+               <p>Thus it is clear that a company of people do become a church by entering into an holy Covenant with the Lord their God to own him, and ſerve him:</p>
+               <p>Therefore the church is called the
+<note n="*" place="margin">
+                     <hi>Cant</hi> 4.8, 9 10.</note> 
+                  <hi>Spouſe of Jeſus Chriſt,</hi> by which name the church could not pro<g ref="char:EOLhyphen"/>perly be called, had ſhe not entred into an holy conjugall covenant
+<pb n="9" facs="tcp:119639:13"/>with Jeſus Chriſt to be loyall and faithfull to him, for this is eſſential to the relation of a Spouſe or wife that ſhe enter covenant with her husband to be loyall and faithfull to him.</p>
+               <p>And as the church is rightly called the Spouſe of Jeſus Chriſt by vertue of this her covenant, ſo is the Lord alſo called the hus<g ref="char:EOLhyphen"/>band of his church or Spouſe, for he doth covenant with her,
+<note place="margin">
+                     <hi>Levit</hi> 26.12 <hi>Gen.</hi> 11, 1.</note> that he will be her God, her ſheild, her exceeding great reward, that he will never faile her nor forſake her, —.</p>
+               <p>
+                  <hi>The ſum of the anſwer then to this third Queſtion is this,</hi>
+               </p>
+               <p>That a company of people be<g ref="char:EOLhyphen"/>come a church or under the rela<g ref="char:EOLhyphen"/>tion of the wife and Spouſe of Je<g ref="char:EOLhyphen"/>ſus Chriſt, by entering into an ho<g ref="char:EOLhyphen"/>ly covenant with him to take him for their Lord and God, and to ſubmit unto all his holy Ordinan<g ref="char:EOLhyphen"/>ces
+<pb n="10" facs="tcp:119639:14"/>without ſuch a covenant their could be no ſuch relation betwixt Jeſus Chriſt and the Church as there is, for all relations of that nature are founded upon Cove<g ref="char:EOLhyphen"/>nant.</p>
+            </div>
+            <div n="4" type="section">
+               <head>
+                  <hi>Section.</hi> IV. Containing the anſwer to the fourth queſtion: <hi>Whether the churches of England were at firſt rightly conſtituted?</hi>
+               </head>
+               <p>IF the people of England were conſtituted a Church, or gather<g ref="char:EOLhyphen"/>ed into a church-way, in that way and after that manner that the A<g ref="char:EOLhyphen"/>poſtles did conſtitute a church, or Churches, or gather a people in<g ref="char:EOLhyphen"/>to a Church-way at firſt, then the people of England were at firſt rightly conſtituted a Church, or gathered into a Church-way:</p>
+               <p>But the people of England were at firſt conſtituted a Church, or
+<pb n="11" facs="tcp:119639:14"/>gathered into a Church-way in that way and after that manner that the Apoſtles did conſtitute a Church, or Churches, or gather a people into a Church-way, There<g ref="char:EOLhyphen"/>fore the people of England were at firſt rightly conſtituted a church or gathered into a Church-way.</p>
+               <p>The <hi>major</hi> propoſition is unde<g ref="char:EOLhyphen"/>niable; the <hi>minor</hi> I thus prove:</p>
+               <p>If the people of England were conſtituted a Church, or gathered into a Church-way, upon their re<g ref="char:EOLhyphen"/>ceiving of the word, forſaking of heatheniſh ſuperſtitions and ido<g ref="char:EOLhyphen"/>latry, and embracing the faith of Jeſus Chriſt, &amp; engaging to ſerve him:</p>
+               <p>Then they were conſtituted a Church, or gathered into a church way,
+<note place="margin">
+                     <hi>Acts</hi> 2. <hi>chap.</hi> 19.</note> in that way and after that manner, that the Apoſtles did con<g ref="char:EOLhyphen"/>ſtitute a Church or Churches, or gather a people into a Church way,</p>
+               <pb n="12" facs="tcp:119639:15"/>
+               <p>But the people of England were conſtituted a Church, or gathered into a Church-way upon their re<g ref="char:EOLhyphen"/>ceiving of the word, forſaking of heatheniſh ſuperſtitions and Ido<g ref="char:EOLhyphen"/>latry, and embracing the faith of Jeſus Chriſt, and engaging to ſerve him,</p>
+               <p>Therefore they were conſtitu<g ref="char:EOLhyphen"/>ted a Church or gathered into a Church-way, in that way, and af<g ref="char:EOLhyphen"/>ter that manner that the Apoſtles did conſtitute a Church, or Church<g ref="char:EOLhyphen"/>es, or gather a people into a Church way.</p>
+               <p>The ſequel of the <hi>major</hi> propo<g ref="char:EOLhyphen"/>ſition is undeniable; The <hi>minor</hi> propoſition is proved by all the hi<g ref="char:EOLhyphen"/>ſtories relating to thoſe times, which declare that the Infidel, Pa<g ref="char:EOLhyphen"/>gan people of England, by the preaching of ſalvation through Jeſus Chriſt were converted unto the faith, forſaking heatheniſh ſu<g ref="char:EOLhyphen"/>perſtition and Idolatry: And in<g ref="char:EOLhyphen"/>deed
+<pb n="13" facs="tcp:119639:15"/>our own ſence and reaſon muſt needs induce us to be per<g ref="char:EOLhyphen"/>ſwaded of this; for if this were not a truth, how then came they our progenitors by the name and religion of Chriſtians; which we their ſucceſſors do retaine to this day, being derived from them to us.</p>
+               <p>The name of <hi>Chriſtian,</hi> by which they were called, the exerciſe of Chriſtian religion, which they pra<g ref="char:EOLhyphen"/>ctiſ'd upon the preaching of the Goſpel doth abundantly prove that relinquiſhing Paganiſme and Idolatrous worſhip; They did imbrace the faith of Jeſus Chriſt.</p>
+               <p>And that they did alſo at that time covenant to take and own Je<g ref="char:EOLhyphen"/>ſus Chriſt as their Lord and only ſaviour by ſerving him and ſub<g ref="char:EOLhyphen"/>mitting to his holy ordinances, the very act of their Baptiſme is ſuffi<g ref="char:EOLhyphen"/>cient to informe and convince all intelligent and conſiderate per<g ref="char:EOLhyphen"/>ſons; For what Infidel, or Infidels
+<pb n="14" facs="tcp:119639:16"/>(I mean ſuch as were ſo brought up, and ſo lived for many yeares) were ever baptiſed before they had given evidence of their faith in Chriſt, repentance, and reſoluti<g ref="char:EOLhyphen"/>on to own Chriſt as their Lord and King for the time to come.</p>
+               <p>That the Apoſtles baptiſed none that were brought up in Paganiſm and Infidelity without ſuch evi<g ref="char:EOLhyphen"/>dence, and engagement as before, is very clear in the Scriptures, yea, ſo evident, that it is paſt doubt or queſtion: Shall we then think or dare to ſay that thoſe who tooke upon them to be Miniſters of Je<g ref="char:EOLhyphen"/>ſus Chriſt in thoſe dayes, when England was an Infidel &amp; Pagan Nation, and were ſent hither to preach the Goſpel to this Nation, then in ſuch eſtate as before, I ſay ſhall we dare to judge or think, or ſpeak that theſe baptiſ'd the peo<g ref="char:EOLhyphen"/>ple then of this Nation without evidences of faith &amp; repentance,
+<pb n="15" facs="tcp:119639:16"/>and engagements to own and ſerve Jeſus Chriſt as their Lord, and God, I am ſure if they did ever or could but read the Scriptures, they could not be ignorant whom they ought to baptiſe, and upon what evidence, and far be it from me to judge or think that they would be wittingly and knowing<g ref="char:EOLhyphen"/>ly ſo injurious to the truth, the Sa<g ref="char:EOLhyphen"/>crament of Baptiſme, and practiſe of the Apoſtles, as to baptiſe the then people of this Nation with<g ref="char:EOLhyphen"/>out ſome manifeſtations of their faith and repentance, and reſolu<g ref="char:EOLhyphen"/>tions to own and ſerve Jeſus Chriſt for the time to come, as their Lord and Saviour:</p>
+               <p>I can hardly believe that any man will cenſure the firſt conver<g ref="char:EOLhyphen"/>ters, &amp; Baptiſers of our nation, ei<g ref="char:EOLhyphen"/>ther to be men ignorant of, or ma<g ref="char:EOLhyphen"/>litious againſt the truth, one of which they muſt needs judge them to be, if they ſay they bapti<g ref="char:EOLhyphen"/>ſed
+<pb n="16" facs="tcp:119639:17"/>without ſuch evidences of faith and repentance as before.</p>
+               <p>But if theſe firſt converters did by the preaching of Jeſus Chriſt to the Pagans of England turn them from their Idols to embrace the ſaid faith, and upon the ſaid evidences of faith, repentance and reſolutions to cleave to Jeſus Chriſt as their only redeemer, did admit them to be baptiſed, then they did rightly conſtitute them a Church, or gather them into a Church-way according to the manner and practice of the Apo<g ref="char:EOLhyphen"/>ſtles recorded in the Scriptures, which that they thus did, is both a probable and charitable judg<g ref="char:EOLhyphen"/>ment, That they did not, is a raſh and unchriſtian like cenſure:</p>
+               <p>Ob. <hi>But the Church of England had its conſtitution from Rome, therefore it was never rightly, conſtituted, neither is a true Church;</hi>
+               </p>
+               <p>
+                  <hi>Sol.</hi> To this I anſwer, that the ante<g ref="char:EOLhyphen"/>cedent is not altogether true, poſ<g ref="char:EOLhyphen"/>ſibly
+<pb n="17" facs="tcp:119639:17"/>it may be, grant it in relati<g ref="char:EOLhyphen"/>on to a part, not in relation to the whole.</p>
+               <p>For ought I know, or any one can diſprove, there might be a Church of Chriſt in England nere as ſoon as there was one in Rome.</p>
+               <p>The Scriptures do indeed de<g ref="char:EOLhyphen"/>clare that there was a Church in Rome in the Apoſtles times, and therefore we may believe it; The Scriptures do not deny that there was a Church of Chriſt in England in thoſe dayes, the Chronicles and Hiſtories, relating to thoſe times affirme it, and therefore I ſee not why it ſhould be contradicted.</p>
+               <p>Tis true thoſe Hiſtories ſay not that the whol Nation of England did embrace the Faith of Chriſt when it was firſt preach'd unto them (as is conceived either by ſome of the Apoſtles, or Apoſtoli<g ref="char:EOLhyphen"/>call then, as <hi>Philip,</hi> or <hi>Simon Zelotes,</hi> or <hi>Joſeph</hi> of <hi>Arimathea</hi>) but part
+<pb n="18" facs="tcp:119639:18"/>of the Nation did, and were then gathered into a Church-way;</p>
+               <p>For about ſix hundred years af<g ref="char:EOLhyphen"/>ter this, when <hi>Auguſtine</hi> was ſent from Rome, by <hi>Gregory,</hi> the then <hi>Biſhop</hi> of Rome, to endeavour the converſion of the whole Nation, he found both a <hi>Ministery</hi> and <hi>Churches</hi> of Jeſus Chriſt ſetled in the Land:</p>
+               <p>For at his firſt coming, he (as the Hiſtory relates) aſſembled together the Biſhops and Doctors of <hi>Britaine</hi> to diſcourſe and reaſon with them; and to re<g ref="char:EOLhyphen"/>queſt their aſſiſtance for the con<g ref="char:EOLhyphen"/>verſion of the Pagan Engliſh, So that we may ſay, and that truly, that Chriſtianity was in England <hi>propagated,</hi> but not at firſt <hi>planted</hi> by Rome.</p>
+               <p>But grant this that <hi>Auguſtine</hi> was the firſt that planted the Chriſtian faith in England, and that there were neither <hi>Miniſtery</hi>
+                  <pb n="19" facs="tcp:119639:18"/>nor <hi>Church,</hi> before ordained, and gathered by him, and his aſſiſtants, what is this to the now unchurch<g ref="char:EOLhyphen"/>ing of the Church in England, or the wrong conſtitution of it at the time.</p>
+               <p>
+                  <hi>Obj.</hi> The miniſtry and churches of England were ordained and conſtituted by <hi>Auguſtine</hi> and his aſ<g ref="char:EOLhyphen"/>ſiſtants who were ſent from Rome.</p>
+               <p>Therefore the Miniſtery and Churches of England had no right conſtitution and Ordination.</p>
+               <p>
+                  <hi>Sol.</hi> I deny the conſequence; &amp; if any man will go about to prove it, it will be neceſſary that he prove and make appeare that the Mini<g ref="char:EOLhyphen"/>ſtery, and Church of Rome were at that time a falſe and Antichirſt<g ref="char:EOLhyphen"/>an Miniſtery and Church:</p>
+               <p>But I think it is a clear caſe that the Church of Rome was then (though a corrupt) yet a true Church, &amp; ſo continued for many yeares after that time.</p>
+               <pb n="20" facs="tcp:119639:19"/>
+               <p>Yea, it is the opinion of ſome Godly, learned, and judicious, (from whom I ſee no <hi>Reaſon</hi> to diſ<g ref="char:EOLhyphen"/>ſent) that the Church of Rome did not quite fall off from Chriſt, or turne utterly Antichriſtian un<g ref="char:EOLhyphen"/>till the Councel of <hi>Trent,</hi> at which time the ſaid Church of Rome did by a publick Councel diſowne and deſtroy the very fundamentalls of Chriſtian religion, which ſhe ne<g ref="char:EOLhyphen"/>ver did before that time; at which time theſe abſurd &amp; antichriſtian and unchurching errors were de<g ref="char:EOLhyphen"/>creed and publiſhed as the faith of the Church of Rome, and all were accurſed and excommumicated that aſſented not unto theſe abo<g ref="char:EOLhyphen"/>minations,
+<list>
+                     <item>1. <hi>Popes</hi> ſupremacy.</item>
+                     <item>2. Dividing the bread and wine in the Sacrament, allowing the people no wine.</item>
+                     <item>3. Juſtification by works.</item>
+                     <item>4. Worſhipping of images.</item>
+                     <pb n="21" facs="tcp:119639:19"/>
+                     <item>5. That the people ought not to read the Scripturess.</item>
+                     <item>6. That Traditions ought to be believed as Scripture.</item>
+                  </list>
+               </p>
+               <p>Now theſe abominations, which make <hi>deſolate</hi> (I mean unchurch) the Church of Rome, were not ſet up by publick decree and con<g ref="char:EOLhyphen"/>ſent in the ſaid Church untill the ſaid Councel of <hi>Trent:</hi>
+               </p>
+               <p>'Tis true the <hi>Mystery of iniquity</hi> did work before, and theſe abo<g ref="char:EOLhyphen"/>minations as before were creeping into that church, but they were corrected &amp; exploded by ſeveral Councells.</p>
+               <p>The Councels of <hi>Calcedon, Af<g ref="char:EOLhyphen"/>frick, Conſtantinople, Milevi, Baſil,</hi> decreed againſt the Popes Supre<g ref="char:EOLhyphen"/>macy; the Councel of <hi>Baſil</hi> decreed communicating in both kinds.</p>
+               <p>The divine worſhipping of Images was forbid by the ſecond <hi>Nicene</hi> Councel; the Councel of <hi>Nice</hi> de<g ref="char:EOLhyphen"/>creed that no Chriſtian ſhould be
+<pb n="22" facs="tcp:119639:20"/>without a Bible: To believe Tra<g ref="char:EOLhyphen"/>ditions to be equall with the Scri<g ref="char:EOLhyphen"/>ptures, to hold juſtification by works was never decreed by any Councel, nor held out as the Faith of that Church before the Councel of <hi>Trent.</hi>
+               </p>
+               <p>So that I may ſay, though the Myſtery of iniquity was many hundreds of years a working, yet the diſeaſe came not to its full height and ſtate, ſo as to deſtroy the body until that time, I mean the Councel of <hi>Trent.</hi>
+               </p>
+               <p>So that the Church of Rome not having declared a publick diſ<g ref="char:EOLhyphen"/>owning of the Faith and Goſpel<g ref="char:EOLhyphen"/>fundamentalls untill the Councel of <hi>Trent,</hi> I ſee no reaſon as yet, why ſhee may not be called a true Church untill that time; I ſay a true Church, though a Church ve<g ref="char:EOLhyphen"/>ry corrupt; As a man may be cal<g ref="char:EOLhyphen"/>led a true man, though never ſo ſick, and weak, and diſeaſed, until
+<pb n="23" facs="tcp:119639:20"/>by the extremity and height of the mallady he becomes dead; ſo a Church, may truly be called a Church, though very ſick, diſeaſ'd &amp; corrupt, untill by making ſhip<g ref="char:EOLhyphen"/>wrack of the Faith, and erring in fundamentalls, it expires.</p>
+               <p>Thus it is clear that grant it were ſo (as it was not) that the Miniſtery and Church of England, as to the whole, were ordained and conſtituted by <hi>Auguſtine</hi> and other aſſiſtants from Rome, yet this con<g ref="char:EOLhyphen"/>cludes nothing at all againſt the right ordination and conſtitution of the Miniſtry and Churches of England, becauſe the Church of Rome was at that time (though very corrupt) yet a true Church.</p>
+               <p>
+                  <hi>Ob.</hi> But it is objected the church<g ref="char:EOLhyphen"/>es of England were not rightly conſtituted, becauſe the people be<g ref="char:EOLhyphen"/>came Chriſtians not by the mini<g ref="char:EOLhyphen"/>ſtry of the word, but by the com<g ref="char:EOLhyphen"/>mands
+<pb n="24" facs="tcp:119639:21"/>and edicts of their Kings who after they were converted, commanded all their ſubjects and people to embrace the ſaid faith and religion.</p>
+               <p>
+                  <hi>Sol.</hi> To this I anſwer that the matter of this objection is wholly falſe and Scandalous;</p>
+               <p>It is wholly falſe that the Pagan people of England became Chri<g ref="char:EOLhyphen"/>ſtians after the converſion of their Kings, by penal Laws and edicts of their ſaid Soveraignes.</p>
+               <p>After <hi>Auguſtine</hi> had converted <hi>Ethelberg</hi> King of <hi>Kent</hi> to the Chri<g ref="char:EOLhyphen"/>ſtian faith, let any one, if he can ſhew any ſuch act or edict, put forth by him to enjoyne all his ſubjects to embrace the ſaid reli<g ref="char:EOLhyphen"/>gion upon any penaltie or forfei<g ref="char:EOLhyphen"/>ture; If there were any ſuch thing, it would ſurely be upon record.</p>
+               <p>But we read the contrary of him, we read of this King <hi>Ethel<g ref="char:EOLhyphen"/>berg</hi> that after he was converted,
+<pb n="25" facs="tcp:119639:21"/>
+                  <hi>Innumerable others dayly came in,</hi>
+                  <note place="margin">Mr. Fox <hi>Acts Mo<g ref="char:EOLhyphen"/>numents</hi> 1. <hi>vol. page.</hi> 1656.</note> 
+                  <hi>and were adjoyned to the Church of Chriſt, whom the King did ſpecially embrace, but compelling none, for ſo be had learned, that the faith and ſervice of Chriſt ought to be volunta<g ref="char:EOLhyphen"/>ry and not coact.</hi>
+               </p>
+               <p>And ſo I read of the other Kings that then reigned in this Land; that after they were converted to the Faith of Jeſus Chriſt, they en<g ref="char:EOLhyphen"/>couraged Miniſters to go into their Countries, and preach to their Subjects; and by this means became the Pagan people of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to be Chriſtians, &amp; a Church, by the preaching of the Goſ<g ref="char:EOLhyphen"/>pel to them, and not by compul<g ref="char:EOLhyphen"/>ſatory Laws of their Kings: And they that do gainſay this, it will be eaſy to prove that they are either ignorant or perverſe.</p>
+               <p>Mr. <hi>Cotton</hi> late of <hi>New-England,</hi> a man of great learning and reve<g ref="char:EOLhyphen"/>rence, though he fully aſſented
+<pb n="26" facs="tcp:119639:22"/>not to y<hi rend="sup">e</hi> way of the Churches of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and therefore ſeparated from them, yet he never found fault with their conſtitution at firſt, for as to this he declares himſelf thus:</p>
+               <p>
+                  <hi>The efficient inſtruments of their firſt plantation</hi> (meaning the Churches of <hi>England</hi>) <hi>which were neither Apoſtles, or Apostolicall men, whether</hi> Phillip, <hi>or</hi> Joſeph <hi>of</hi> Ari<g ref="char:EOLhyphen"/>mathea, <hi>or</hi> Simon Zelotes, <hi>as any of our Country men may read in Mr.</hi> Fox<hi>'s</hi> Book of Acts and Monu<g ref="char:EOLhyphen"/>ments, <hi>out of</hi> Gildas, Tertul<g ref="char:EOLhyphen"/>lian, Origen, Beda, Nicephorus, <hi>which being ſo, we cannot but con<g ref="char:EOLhyphen"/>ceive the Churches in</hi> England <hi>were rightly gathered and planted accor<g ref="char:EOLhyphen"/>ding to the rule of the Goſpell: And all the corruptions found in them ſince have ſprung from Popiſh Apo<g ref="char:EOLhyphen"/>stacy in ſucceeding Ages, and for want of thorough and perfect purging out of that Leaven in the late times of Reformation, in the dayes of our
+<pb n="27" facs="tcp:119639:22"/>Fathers:</hi>
+                  <note place="margin">Cottons <hi>way Chur<g ref="char:EOLhyphen"/>ches</hi> New-England.</note> 
+                  <hi>So that all the work now is, not to make them Churches which were none before, but to reduce and reſtore them to their Primitive Inſti<g ref="char:EOLhyphen"/>tution:</hi> Thus Mr. <hi>Cotton.</hi> And it being granted that the Churches in <hi>England</hi> were rightly conſtitu<g ref="char:EOLhyphen"/>ted and gathered at firſt, it will ea<g ref="char:EOLhyphen"/>ſily be proved that there hath con<g ref="char:EOLhyphen"/>tinued a true Church in this Land unto this day, though very corrupt and impure, eſpecially when ſub<g ref="char:EOLhyphen"/>ject to the Papall yoke: Yet in thoſe ſaddeſt times of corruption and perſecution, God had his Church and Miniſtery in <hi>England,</hi> who witneſſed to the Truth, and appeared for a Reformation of ſuch corruptions &amp; abuſes in the Church, though many of theſe by the power of a prevaling faction in ſuffered for ſuch zeal and love to the Church the Truth.</p>
+               <p>I ſay, the Church in <hi>England</hi> under the greateſt Corruption,
+<pb n="28" facs="tcp:119639:23"/>was never without ſome <hi>Witneſſes,</hi> ſome <hi>Names,</hi> which ſuppoſe they were but a few, in compariſon of the greater part that corrupted themſelves, and were made drunk with the <hi>wine</hi> of <hi>fornication</hi> ſpo<g ref="char:EOLhyphen"/>ken of, <hi>Rev.</hi> 14.8. Yet will not God diſown that to be a Church when theſe (though but few) names be found.</p>
+               <p>God own'd them to be a Church in
+<note n="*" place="margin">
+                     <hi>Rev.</hi> 3.1</note>
+                  <note n="*" place="margin">
+                     <hi>verſe</hi> 4.</note> 
+                  <hi>Sardis,</hi> and yet tells them they had but a <hi>few names</hi> which had not defiled their garments. And though the Church in <hi>England</hi> might be reproved of corruption in Doctrine, yet this did not un<g ref="char:EOLhyphen"/>Church her, no more than it did the Church of <hi>Pergamus,</hi> which God owned to be a Church, though they held the Doctrine of <hi>Baalam.</hi>
+                  <note place="margin">
+                     <hi>Rev.</hi> 2.14.</note>
+               </p>
+               <p>Though the Church in <hi>England</hi> might be juſtly reproved of cor<g ref="char:EOLhyphen"/>ruption in manners, and diſci<g ref="char:EOLhyphen"/>pline,
+<pb n="29" facs="tcp:119639:23"/>yet this did not un-Church her, no more than it did the <hi>Corin<g ref="char:EOLhyphen"/>thians,</hi> whom St. <hi>Paul</hi> calleth a Church of God; though in the ſame Epiſtle he reproveth them both for their corruption in man<g ref="char:EOLhyphen"/>ners and diſcipline.
+<note place="margin">1 <hi>Cor.</hi> 11.21</note>
+               </p>
+               <p>Though in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by the power of a prevalent factious party,
+<note place="margin">
+                     <hi>cha</hi> 3.1, 2, 3 <hi>chap.</hi> 5.</note> many of the preci<g ref="char:EOLhyphen"/>ous Saints of God were put to death, yet this doth no more un-Church her than the ſame ſin did the people of the Jews, whom God al along own'd as his Church, though a prevalent, wicked, facti<g ref="char:EOLhyphen"/>ous party among them killed the
+<note n="*" place="margin">
+                     <hi>Mat.</hi> 23.37.</note> Prophets, and ſtoned the Meſſen<g ref="char:EOLhyphen"/>gers of the Lord that were ſent unto them.</p>
+               <p>The Church in <hi>England</hi> ſince its firſt Inſtitution unto this day, cannot be juſtly charged to have made ſhipwrack of the faith of Jeſus Chriſt, by diſ<g ref="char:EOLhyphen"/>owning,
+<pb n="30" facs="tcp:119639:24"/>or erring in any thing fundamentall to that Faith, or ne<g ref="char:EOLhyphen"/>ceſſary to the <hi>eſſe</hi> or being of a Church: Therefore the Church in <hi>England</hi> continues to be a Church of God ſtill.</p>
+               <p>As for her many and grievous corruptions both in Doctrine, di<g ref="char:EOLhyphen"/>ſcipline and manners, they are ſad<g ref="char:EOLhyphen"/>ly to be bewailed, and diligently to be reformed: Theſe blemiſh and disbeautify a Church, and juſtly provoke God againſt it: Theſe are inconſiſtent as to the <hi>well being,</hi> but not to the <hi>being</hi> of a Church.</p>
+               <p>And though the Church in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> did joyne with and own the Church of <hi>Rome,</hi> whilſt the ſaid Church held the fundamentals of Chriſtian Religion, and was ſound in matters of Faith; yet when the ſaid Church of <hi>Rome</hi> did begin to faulter there, to deny fundamen<g ref="char:EOLhyphen"/>tal verities, and make ſhip<g ref="char:EOLhyphen"/>wrack
+<pb n="31" facs="tcp:119639:24"/>of the faith, which ſhe hath done ſince the <hi>Councell of Trent,</hi> at that very time did the Church in <hi>England</hi> refuſe her the right hand of fellowſhip, diſown, and ſepa<g ref="char:EOLhyphen"/>rate from her, and ſo continues unto this day.</p>
+               <p>After this manner alſo did the reformed Churches in <hi>Germany, Suevia, Denmark, France</hi>—ſepa<g ref="char:EOLhyphen"/>rate themſelves from that faction of <hi>Rome,</hi> and likewiſe ſo continue at this day.</p>
+               <p>They that deny the Miniſtery and Churches in <hi>England</hi> to be a true Miniſtry and true Churches, muſt of neceſſity alſo aſſert, de<g ref="char:EOLhyphen"/>fend and affirm theſe (to me) moſt horrid and deſperate Con<g ref="char:EOLhyphen"/>cluſions.</p>
+               <p>Firſt, <label type="milestone">
+                     <seg type="milestoneunit">Conc. </seg>1</label> That the reformed Churches beyond the Seas, are no true Churches, but falſe and Anti<g ref="char:EOLhyphen"/>chriſtian Churches and Miniſtery.</p>
+               <p>The Reaſon is, becauſe the
+<pb n="32" facs="tcp:119639:25"/>Church in <hi>England</hi> and theſe Re<g ref="char:EOLhyphen"/>formed Churches reach out the right hand of fellowſhip to each other, have the ſame Baptiſm, the ſame Ordinances, the ſame Ordi<g ref="char:EOLhyphen"/>nation, the ſame Diſcipline as to the ſubſtance of it: Therefore if the one be falſe and Antichriſtian, the other cannot be a true and Chriſtian Church, or Churches.</p>
+               <p>Secondly, <label type="milestone">
+                     <seg type="milestoneunit">Conc. </seg>2</label> That <hi>Luther, Cal<g ref="char:EOLhyphen"/>vin,</hi> and all thoſe famous Lights, and happy Reformers of the Churches beyond the Seas, were falſe and Antichriſtian Miniſters.</p>
+               <p>Thirdly, <label type="milestone">
+                     <seg type="milestoneunit">Conc. </seg>3</label> That <hi>Cranmer, Rid<g ref="char:EOLhyphen"/>ley, Latimer, Tayler,</hi> and many more, who laboured much the Reformation of the Church in <hi>England</hi> from <hi>Romiſh</hi> ſuperſtition, and were famous inſtruments, as to that work, and afterward ſealed unto the truth with their blood, and are now Triumphing in hea<g ref="char:EOLhyphen"/>ven, that all theſe were limbs of
+<pb n="33" facs="tcp:119639:25"/>Antichriſt, and no Miniſters of Je<g ref="char:EOLhyphen"/>ſus Chriſt.</p>
+               <p>Fourthly, <label type="milestone">
+                     <seg type="milestoneunit">Conc. </seg>4</label> That there hath been no true Church nor Miniſtery of Jeſus Chriſt for many hundreds of years upon earth: For if neither in <hi>England</hi> nor beyond the Seas, where then hath it been?</p>
+               <p>Now if Satan did ſo prevail a<g ref="char:EOLhyphen"/>gainſt the Church, as utterly to raze the very foundation of it, how will this conſiſt with that word of our Saviours?
+<note n="*" place="margin">Mat. 16.18</note> 
+                  <hi>
+                     <g ref="char:V">Ʋ</g>pon this Rock will I build my Church, and the gates of Hell ſhall not prevail againſt it.</hi> If there hath ever ceaſed to be a true Miniſtery upon earth, how will this again conſiſt with that promiſe of our Lords,
+<note n="*" place="margin">Mat. 28.2.</note> 
+                  <hi>Loe I will be with you unto the end of the world?</hi>
+               </p>
+               <p>Fifthly, <label type="milestone">
+                     <seg type="milestoneunit">Conc. </seg>5</label> That there hath been no true converſion of Soules unto God for theſe many hundreds of years in <hi>England;</hi> but that all have continued dead in ſins and treſ<g ref="char:EOLhyphen"/>paſſes,
+<pb n="34" facs="tcp:119639:26"/>
+                  <hi>Children of wrath, without Chriſt, aliens from the Common<g ref="char:EOLhyphen"/>wealth of</hi> Iſrael, <hi>ſtrangers from the Covenant of Promiſe, having no hope, and without God in the world:</hi> This was the condition of the <hi>Epheſians</hi> whilſt they were no Church,
+<note place="margin">
+                     <hi>Epheſ.</hi> 2.</note> nor had a Goſpel-Miniſtery amongſt them: And this hath been for ma<g ref="char:EOLhyphen"/>ny hundreds of years, and ſtill is the ſad condition of <hi>England,</hi> if without a Church and true Mini<g ref="char:EOLhyphen"/>ſters of Jeſus. I cannot ſee how that ture converſion ſhould be wrought by a falſe and Antichri<g ref="char:EOLhyphen"/>chriſtian Miniſtery,
+<note n="*" place="margin">
+                     <hi>Jer.</hi> 23.32.</note> 
+                  <hi>I ſent them not nor commanded them, there fore they ſhall not profit this people at all ſaith the Lord.</hi> Therefore by what Miniſtery a people profit, &amp; are converted from ſin and Satan, to ſerve the Lord and fear him, from living profanely, ungodly, rudely, to live ſoberly, and righte<g ref="char:EOLhyphen"/>ouſly, and godly in the world, it
+<pb n="35" facs="tcp:119639:26"/>is a ſure ſigne that Miniſtery is from God, owned, and ſent by him:</p>
+               <p>Therefore ſeeing by denying the Church and Miniſtry in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to be a true Church and Mi<g ref="char:EOLhyphen"/>niſtery, ſuch abhorred concluſions as before muſt alſo be aſſerted, it ſeems to me not onely to be an <hi>error,</hi> but a <hi>furor,</hi> a <hi>phrenſy</hi> in ſome men, to run themſelves upon ſuch dreadfull Rocks as theſe.</p>
+            </div>
+            <div n="5" type="section">
+               <head>
+                  <hi>Sect.</hi> V. Containing an Anſwer to the firſt Queſtion.</head>
+               <head type="sub">What Government hath our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt ordained in, and for his Church?</head>
+               <p>TO this I Anſwer, That a Go<g ref="char:EOLhyphen"/>vernment and diſcipline in the Church is to be obſerved by
+<pb n="36" facs="tcp:119639:27"/>divine right; for God is the God of order and not of confuſion; without this, the Church would rather ſeem a <hi>Babel</hi> than a <hi>Bethel,</hi> and therefore we muſt of neceſſity conclude a Church-Government
+<note n="*" place="margin">1 <hi>Cor.</hi> 12.28</note> by Divine right.</p>
+               <p>But although the thing it ſelf be granted, yet the manner how, or way, is much diſputed by god<g ref="char:EOLhyphen"/>ly and learned men.</p>
+               <p>Now as the Scriptures do clear<g ref="char:EOLhyphen"/>ly hold out that there ought to be a Church-Government, ſo they do alſo inſtruct us in the way, and not altogether leave us in the dark in a thing of ſo great concernment as this:</p>
+               <p>Therefore let us ſearch the Scriptures, they are ſufficient to informe us as to this caſe; or elſe how can the Scriptures be truly ſaid to be
+<note n="*" place="margin">
+                     <hi>P<gap reason="illegible" resp="#MURP" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> Tim.</hi> 3.<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>15</note> perfect, if they fall ſhort and cannot informe in a caſe of ſo high concernment as this? How
+<pb n="37" facs="tcp:119639:27"/>can they be ſaid to be ſufficient to make a man
+<note n="*" place="margin">2 <hi>Tim.</hi> 3.17</note> wiſe, if they leave him ignorant in this ſo weighty a matter?</p>
+               <p>How can they be ſaid to be ſuf<g ref="char:EOLhyphen"/>ficient to make the man of God
+<note n="*" place="margin">1 <hi>Tim.</hi> 5.17</note> perfect &amp; thorowly to furniſh him unto all good works, if they in<g ref="char:EOLhyphen"/>forme him not as to the managing of church government, which is a great, and a good work, and who<g ref="char:EOLhyphen"/>ſoever manage it well, in St. <hi>Pauls</hi> eſteeme, are worthy of <hi>double ho<g ref="char:EOLhyphen"/>nour.</hi>
+               </p>
+               <p>Therefore let us hear the Scrip<g ref="char:EOLhyphen"/>tures ſpeake, as to the way of church-Government.</p>
+               <p>To a Government be it either <hi>Civil</hi> or <hi>Sacred</hi> are neceſſary theſe three things.</p>
+               <pb n="38" facs="tcp:119639:28"/>
+               <list>
+                  <label>1. Ordinances.</label>
+                  <item>
+                     <hi>Ordinances to be ſubmitted unto.</hi>
+                  </item>
+                  <label>2. Officers.</label>
+                  <item>
+                     <hi>Officers to rule, and ſee to ſubmiſſions unto and obſer<g ref="char:EOLhyphen"/>vance of Gods Or<g ref="char:EOLhyphen"/>dinances.</hi>
+                  </item>
+                  <label>3. Penalties.</label>
+                  <item>
+                     <hi>Penalties to be in<g ref="char:EOLhyphen"/>flicted on offen<g ref="char:EOLhyphen"/>ders.</hi>
+                  </item>
+               </list>
+               <p>Theſe are all neceſſary to church-Government:
+<note place="margin">Prayer, Sing<g ref="char:EOLunhyphen"/>ing of Pſalms, the Sacraments are Church-Ordinances</note>
+               </p>
+               <p n="1">1. There muſt be church Or<g ref="char:EOLhyphen"/>dinances to be ſubmitted unto and obſerved; and the Scripture tells us that theſe are,</p>
+               <p>Firſt, Prayer, ſo 1 <hi>Tim.</hi> 2.1.</p>
+               <p>Secondly, Singing of Pſalms, <hi>Pſal.</hi> 9.11. <hi>Mat.</hi> 26.30. <hi>Acts</hi> 16.25.</p>
+               <p>Thirdly, Miniſtery of the word, <hi>Rom.</hi> 10.15. <hi>Mark.</hi> 16.15. <hi>Eph.</hi> 4.12.</p>
+               <p>Fourthly, The Sacraments of Baptiſme, <hi>Mat.</hi> 28.18.</p>
+               <p>The Lords Supper, <hi>Mat.</hi> 26.26. <hi>Luke</hi> 22.19.</p>
+               <pb n="39" facs="tcp:119639:28"/>
+               <p>Thus for Church-Ordinances the Scripture declares clearly what they are that we ought to ſubmit to and obſerve:</p>
+               <p n="2">2. There muſt be Church Officers too, or elſe no Govern<g ref="char:EOLhyphen"/>ment;</p>
+               <p>Now as to Church Officers, the Scriptures do uſually call ſome by the name of <hi>Elders,</hi> and do ſeem to make two Sorts of them.</p>
+               <p>Firſt, Elders that did both teach and rule,</p>
+               <p>Secondly, Elders that rul'd but taught not:</p>
+               <p>Teaching Elders or Paſtors and Teachers of the Church, the Scriptures declare that theſe are to be in the Church as <hi>Officers, Rulers, Overſeers,</hi> for in the 4. of the <hi>Ephe.</hi> 8, 9, 10, 11. We there read that be<g ref="char:EOLhyphen"/>ſides other extraordinary Officers which were but <hi>pro tempore</hi> in the Church,
+<note place="margin">
+                     <hi>So Acts</hi> 20.17, 28. 1 <hi>Cor:</hi> 12.28</note> Paſtors and Teachers are to be in the Church to the end.</p>
+               <pb n="40" facs="tcp:119639:29"/>
+               <p>And as the Scripture tells us there ought to be Paſtours and Teachers in the Church as Church-Officers, ſo it tells alſo firſt how theſe ſhould be ordained to their Office. Secondly, How they ſhould be qualified for their Office.</p>
+               <p>Firſt, How ordained to the Of<g ref="char:EOLhyphen"/>fice, that is by
+<note n="*" place="margin">
+                     <hi>Acts</hi> 13.3 1 <hi>Tim.</hi> 4.14</note> Prayer and Impoſi<g ref="char:EOLhyphen"/>tion of the hands of the <hi>Presbytery.</hi>
+               </p>
+               <p>Secondly, How they ſhould be qualified for the Office.</p>
+               <p>Firſt, They ſhould be men of gifts and parts,
+<note n="*" place="margin">2 <hi>Tim</hi> 3 2 1 <hi>Tim.</hi> 3.1, 2</note> 
+                  <hi>apt to Teach.</hi>
+               </p>
+               <p>Secondly, Men of Holy lives and converſations,
+<note n="*" place="margin">2 <hi>Tim</hi> 3 2 1 <hi>Tim.</hi> 3.1, 2</note> 
+                  <hi>not Scanda<g ref="char:EOLhyphen"/>lous.</hi>
+               </p>
+               <p>A Second ſort of Church. Offi<g ref="char:EOLhyphen"/>cers, which the Scripture calls <hi>El<g ref="char:EOLhyphen"/>ders</hi> alſo, ſeem to be ſuch as were not (as we uſe to ſay) in <hi>Eccleſi<g ref="char:EOLhyphen"/>aſticall Orders;</hi> but ſome of the Church, graveſt and wiſeſt of the Church, who were choſen to help and aſ<g ref="char:EOLhyphen"/>ſiſt the Teaching Elders, in the
+<pb n="41" facs="tcp:119639:29"/>Rule and Government of the Church: That there were ſuch Church-Officers as theſe in the A<g ref="char:EOLhyphen"/>poſtles times, theſe Texts of Scri<g ref="char:EOLhyphen"/>pture ſeems to hold forth, 1 <hi>Tim.</hi> 5.17. <hi>Let the Elders that rule well— eſpecially who labour in the Word and Doctrine.</hi>
+               </p>
+               <p>This place ſeems to ſpeak of two diſtinct ſorts of Elders, the one Ruling onely, the other both Ruling, and Teaching alſo, and here the Apoſtle bids honour both ſorts, but eſpecially thoſe El<g ref="char:EOLhyphen"/>ders that <hi>Taught</hi> the Church as well as <hi>Rul'd</hi> it.</p>
+               <p>The word <hi>eſpecially</hi> ſeems there to make this diſtinction of Elders, for this word <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> eſpecially, is commonly uſed by St. <hi>Paul</hi> to diſtinguiſh perſons or things, in the ſame place ſpoken of, ſo Gal. 6.10. <hi>Do good unto all, eſpecially to thoſe that be of the houſhold of Faith;</hi> here the word <hi>eſpecially</hi> ſignifies
+<pb n="42" facs="tcp:119639:30"/>that there were ſome of the houſ<g ref="char:EOLhyphen"/>hold of Faith, ſome not, we muſt do good unto all, but <hi>eſpecially</hi> to thoſe of that <hi>houſhold:</hi> So, 1 Tim. 5.17. <hi>The Elders that Rule well ac<g ref="char:EOLhyphen"/>count worthy of double honour, eſpe<g ref="char:EOLhyphen"/>cially thoſe that labour in the Word and Doctrine;</hi> here the word <hi>eſpe<g ref="char:EOLhyphen"/>cially</hi> ſeems to ſignify that ſome of thoſe Elders did labour in the Word &amp; Doctrine, ſome did not, both were to be honoured, if they ruled well, but eſpecially thoſe Elders that both Ruled well, and laboured in the Word and Do<g ref="char:EOLhyphen"/>ctrine alſo: So in <hi>Rom.</hi> 2.6, 7, 8.— <hi>Or Miniſtery, let us wait on our Mi<g ref="char:EOLhyphen"/>niſtering, or he that Teacheth on teaching, or he that Exhorteth on ex<g ref="char:EOLhyphen"/>hortation, he that Ruleth with dili<g ref="char:EOLhyphen"/>gence;</hi> here ſeemeth to be an Offi<g ref="char:EOLhyphen"/>cer that was not to wait upon teaching, but onely upon ruling: And we ſeem to retain theſe El<g ref="char:EOLhyphen"/>ders or Officers ſtill in the Church
+<pb n="43" facs="tcp:119639:30"/>in <hi>England,</hi> under the name of <hi>Church-Wardens,</hi> the name ſigni<g ref="char:EOLhyphen"/>fies as much as <hi>Church-Guardians,</hi> or <hi>Church-Rulers.</hi>
+               </p>
+               <p>Another ſort of Church-Officers that we finde mentioned in Scrip<g ref="char:EOLhyphen"/>ture are called by the name of <hi>Dea<g ref="char:EOLhyphen"/>cons,</hi>
+                  <note place="margin">1 <hi>Tim.</hi> 3.8.</note> their office to gather the Churches contribution, and to ad<g ref="char:EOLhyphen"/>miniſter to the poor members; of this Officer the Church will have alwayes need,
+<note place="margin">
+                     <hi>Mat.</hi> 26.11.</note> 
+                  <hi>The poor ye have al<g ref="char:EOLhyphen"/>wayes with you:</hi>
+               </p>
+               <p>Theſe Officers we have in the Churches in <hi>England,</hi> under the Name of <hi>Overſeeres of the poor,</hi>
+               </p>
+               <p>Thus the Scripture doth informe us what Officers are to be in the Church, for the rule and better or<g ref="char:EOLhyphen"/>dering of it.</p>
+               <p n="3">3. There muſt be <hi>Church penalties;</hi> without a penalty to be inflicted upon obſtinate Offenders, neither Ordinances nor Officers (in any kinde of Government) will be regarded.</p>
+               <pb n="44" facs="tcp:119639:31"/>
+               <p>Therefore, for the carrying on of diſcipline, and Government in his Church, and that a better reſpect may be had to his Ordinances, and Officers, our Lord Jeſus Chriſt hath Ordained a penalty to be inflicted upon all obſtinate offenders in this caſe; And this penalty is <hi>excommu<g ref="char:EOLhyphen"/>nication,</hi> or a caſting out of the Church any obſtinate Offiender, as a rotten and dead branch, no more worthy now to be accounted a member of the Church.</p>
+               <p>This is a <hi>delivering up of ſuch an Offender unto Satan for the deſtructi<g ref="char:EOLhyphen"/>on of the fleſh:</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Cor.</hi> 5.5.</note>
+               </p>
+               <p>The power of excommunicati<g ref="char:EOLhyphen"/>on our Lord Jeſus delivered to the
+<note n="*" place="margin">
+                     <hi>Mat:</hi> 18. <hi>Joh.</hi> 20.23.</note> Church.</p>
+               <p>And how the Church ſhould proceed againſt an offender as to the caſe of excommunication, we have a Rule <hi>Mat.</hi> 18.15, 16, 17. <hi>Tit.</hi> 3.10. Thus is the Scripture ſuffici<g ref="char:EOLhyphen"/>ently cleare, and informing, as to
+<pb n="45" facs="tcp:119639:31"/>the way of Church-Government; And that yet there is ſo much of difference and contention about this, it is to be feard that the cauſes are rather <hi>carnall</hi> than <hi>conſciencious,</hi> ariſing as the Apoſtle ſaith from our <hi>Luſts,</hi> and not from any <hi>inſuf<g ref="char:EOLhyphen"/>ficiency</hi> or <hi>Darkneſſe</hi> in the Scrip<g ref="char:EOLhyphen"/>tures as to this caſe.</p>
+            </div>
+            <div n="6" type="section">
+               <head>
+                  <hi>Sect.</hi> VI. Containing an Anſwer to the ſixth Queſtion.</head>
+               <head type="sub">What manner of perſons thoſe ought to be that are in the judgment of charity to be look't upon as viſible members of the Church?</head>
+               <p>TO this I Anſwer,
+<note place="margin">Sol.</note> firſt ne<g ref="char:EOLhyphen"/>gatively, that no man as he is in his naturall condition, without a change from that, ought
+<pb n="46" facs="tcp:119639:32"/>to be admitted as a member of the viſible Church of Jeſus Chriſt:</p>
+               <p>
+                  <hi>Reſ.</hi> For man in his naturall con<g ref="char:EOLhyphen"/>dition is <hi>dead</hi> in <hi>Treſpaſſes and Sins,</hi> a <hi>child</hi> of <hi>wrath,</hi> at <hi>enmity with God and to every good work reprobate;</hi> and therefore as ſuch he is not, nei<g ref="char:EOLhyphen"/>ther is to be accounted a member of the Church viſible of Jeſus Chriſt.</p>
+               <p>For indeed whilſt he is ſuch, he is a viſible member of the Synagogue of Satan.</p>
+               <p>Secondly, I anſwer affirmitive<g ref="char:EOLhyphen"/>ly, that members of the Church of Jeſus Chriſt ought (according to the Scriptures) in ſome manner and meaſure to be prepared, and fitted for that building.</p>
+               <p>The Church of God is compared unto a building, now when a houſe is to be built, the ſtones and tim<g ref="char:EOLhyphen"/>ber are fitted &amp; prepared by hew<g ref="char:EOLhyphen"/>ing and ſquaring before they are laid into the building; Timber as
+<pb n="47" facs="tcp:119639:32"/>it is <hi>rough</hi> in the tree, and ſtone as it is in the <hi>Quarrie</hi> or Rock is not fit to build an houſe withall, but theſe muſt be hew'n and ſaw'n and plain'd and poliſh't, and ſquar'd, and thus they become fit materi<g ref="char:EOLhyphen"/>als to build with all;</p>
+               <p>Man, as he is in his Natural condition is like timber in the tree in the rough, like a ſtone in the Rock unhew'n, unſquar'd, undreſt, and the fitting and preparing ſuch for Gods houſe as Materialls to build withall is compared to a plaining and hewing of wood, <hi>Hoſ</hi> 6.5. <hi>I have hew'n them by my Pro<g ref="char:EOLhyphen"/>phet.</hi> So that there muſt be a Spi<g ref="char:EOLhyphen"/>ritual hewing and ſquaring, and poliſhing men out of their rough and rocky condition before they be fitt materialls to build God an houſe withall.</p>
+               <p>What man is there that builds an houſe of trees never hew'n nor ſawn, nor ſquard; of ſtones un<g ref="char:EOLhyphen"/>dreſt,
+<pb n="48" facs="tcp:119639:33"/>unpoliſht; never ſuch a thing was heard of: But ſuppoſe we ſuch a thing as this, would it not be a moſt miſhapen monſtrous piece of building; would not every one that paſſeth by ſhake his head at it? And ſhall we build God an houſe,
+<note place="margin">Was the Church in the Apoſtls time ſo built.</note> a Church of ſuch like materialls as theſe? of men and women in their natural condition, of Drunk<g ref="char:EOLhyphen"/>ards, Whoremongers, Prophane perſons, Scoffers, Ignorant, and the like to theſe, perſons in their <hi>rough</hi> and <hi>rocky</hi> condition, without any hewing, ſquaring, poliſhing, or fit<g ref="char:EOLhyphen"/>ting of them for ſuch a ſtructure? Surely ſuch a Church as theſe are a monſtrous building, <hi>a Congrega<g ref="char:EOLhyphen"/>tion of evill * doers,</hi>
+                  <note place="margin">Pſ 26.5:</note> 
+                  <hi>a confuſed Aſ<g ref="char:EOLhyphen"/>ſembly,</hi> a building that Jeſus Chriſt is no Corner ſtone of, nor will e<g ref="char:EOLhyphen"/>ver own as hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>?</p>
+               <p>The viſible Church of Jeſus Chriſt is ſo far from being a Con<g ref="char:EOLhyphen"/>gregation of evill doers, of pro<g ref="char:EOLhyphen"/>phane
+<pb n="49" facs="tcp:119639:33"/>and diſſolute perſons, that indeed of right there ought to be none ſuch in the Church, but as they are found and known, they ought to be weeded out by the ſentence of * excommunication.
+<note place="margin">1 <hi>Cor.</hi> 5.</note> What workman in the building of an houſe layes one <hi>row</hi> of hewn and polliſht ſtones, and another <hi>row</hi> of rough, unſquared, and un<g ref="char:EOLhyphen"/>hewed ſtones? would not this be a ridiculous piece of building? Shall we then in Gods building (for ſuch is his Church) lay the ſtones after ſuch a ſort? Here a <hi>row</hi> of ſuch as tremble at an oath, here a <hi>row</hi> of others that pro<g ref="char:EOLhyphen"/>phane the holy name of God as of<g ref="char:EOLhyphen"/>ten as they mention it, and ſwear as commonly as they ſpeak: here a <hi>row</hi> of ſuch as pray in their fami<g ref="char:EOLhyphen"/>lies, and teach their children and ſervants the wayes and fear of the Lord, here a <hi>row</hi> 
+                  <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>thers that never call upon God in their fa<g ref="char:EOLhyphen"/>milies
+<pb n="50" facs="tcp:119639:34"/>all their lives, but by their example teach their children and ſervants to be Atheiſts, deſpiſers of Gods Ordinances, and to live without God in the world, here a <hi>row</hi> of abſtemious and ſober per<g ref="char:EOLhyphen"/>ſons, that are afraid to abuſe the mercies and creatures of God, to ryot and exceſſe, here a <hi>row</hi> of o<g ref="char:EOLhyphen"/>thers that wholly give themſelves to gluttony and drunkenneſſe, whoſe Tables are, as the Prophet complains, Iſa. 28.8. <hi>Full of vomit and filthineſſe, ſo that there is no place clean:</hi> Here a <hi>row</hi> of ſuch as keep Gods Sabbaths and reverence his Ordinances, here a <hi>row</hi> of o<g ref="char:EOLhyphen"/>thers that are Ordinance deſpiſers, contemners and mockers of holy things, and duties, Sabbath break<g ref="char:EOLhyphen"/>ers, and murmurers that God ſhould have this (though but one day in ſeaven) to himſelfe; of whom it may be too probably judg'd, that as well as privately to
+<pb n="51" facs="tcp:119639:34"/>ſport, and play, and drink, and the like—They would alſo Hauk and Hunt, and Plough, and Cart upon thoſe dayes; had they not more fear to the Lawes of men than re<g ref="char:EOLhyphen"/>gard to the Law of God: Here a <hi>row</hi> of ſuch as have been Sanctifi<g ref="char:EOLhyphen"/>ed and cleanſed with the waſhing of water by the Word, here a <hi>row</hi> of others that are filthy ſtill, that mock and ſcoff at Sanctification, profeſſing all <hi>ungodlineſſe, and worldly luſts, and living unrighte<g ref="char:EOLhyphen"/>ouſly, unholily in the world:</hi>
+               </p>
+               <p>Will Jeſus Chriſt ſay unto a Church built after this manner, Cant. 8.9. <hi>Thou art beautifull as</hi> Terza, <hi>comely as</hi> Jeruſalem, chap. 6. ver. 4. <hi>Thou haſt raviſhed my heart, my Siſter, my Spouſe, how much bet<g ref="char:EOLhyphen"/>ter is thy love than wine, and the ſmell of thine oyntments than all ſpi<g ref="char:EOLhyphen"/>ces?</hi> Will not a workman one day have cauſe to be aſhamed of ſuch a building? Nay, ſhall he not be
+<pb n="52" facs="tcp:119639:35"/>ſorely reproved for it, if he have not endeavoured a reformation?</p>
+               <p>Thoſe perſons, the Apoſtles re<g ref="char:EOLhyphen"/>ceived into the Church, as mem<g ref="char:EOLhyphen"/>bers of it, were not prophane and lewd perſons, ſcandalous, of evill report, ſcoffers at Sanctification, deſpiſers of Gods Ordinances and holy duties;
+<note place="margin">
+                     <hi>Acts</hi> 2 47.4<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.49.</note> But they were ſuch as <hi>gladly received the Word,</hi> as were <hi>pricked in their hearts</hi> at the ſenſe of their ſins, ſuch as continued in prayer and the exerciſe of other holy and Chriſtian duties: They were ſuch as burnt their <hi>curious</hi> (becauſe prophane) <hi>Books;</hi>
+                  <note place="margin">
+                     <hi>Acts</hi> 19.18, 19.</note> Such as <hi>confeſſed their ſins, and ſhewed their deeds.</hi>
+               </p>
+               <p>Thus I Conclude in the firſt place, that thoſe, which are recei<g ref="char:EOLhyphen"/>ved into the Church, or continu<g ref="char:EOLhyphen"/>ed in the ſame as members thereof ought to be ſuch as at leaſt wiſe in outward appearance abſtain from
+<pb n="53" facs="tcp:119639:35"/>evill, as have a mark of Sanctifica<g ref="char:EOLhyphen"/>tion and holineſs upon them.</p>
+               <p>Secondly, Church-Members ought to be ſuch as have ſome competent meaſure of knowledg, I conceive they ought to be ſo in<g ref="char:EOLhyphen"/>ſtructed that they may be able in ſome meaſure to give an account of their hope, and thoſe funda<g ref="char:EOLhyphen"/>mental truths that are neceſſary to be known for the praiſe and glory of Gods Grace, and their own Salvation; the Apoſtle would have all Chriſtians be able to give a
+<note place="margin">1 <hi>Pet</hi> 3.15</note> 
+                  <hi>reaſon of their hope.</hi>
+               </p>
+               <p>Thirdly, They that are recei<g ref="char:EOLhyphen"/>ved into, or continued in the Church as its members, ought to be ſuch as are <hi>ſound in the faith,</hi> as hold faſt the <hi>form</hi>
+                  <note n="*" place="margin">
+                     <hi>Tit.</hi> 2.2.</note> 
+                  <hi>of ſound words,</hi> that they make not a <hi>rent</hi> or <hi>Schiſme</hi> in the Church, there<g ref="char:EOLhyphen"/>fore an <hi>Heretique</hi> ſaith the Apoſtle,
+<note place="margin">2 <hi>Tim.</hi> 1.13</note> 
+                  <hi>after the firſt and ſecond admoniti<g ref="char:EOLhyphen"/>on reject.</hi>
+               </p>
+            </div>
+            <div n="7" type="section">
+               <pb n="54" facs="tcp:119639:36"/>
+               <head>
+                  <hi>Sect.</hi> VII. Containing an anſwer to the Se<g ref="char:EOLhyphen"/>venth Queſtion.</head>
+               <head type="sub">Queſt. <hi>What are the duties of Church-Members towards Jeſus Chriſt and one another?</hi>
+               </head>
+               <p>
+                  <hi>Sol.</hi> THe Church of Jeſus Chriſt is call'd his body; We are the body Myſticall, Chriſt is our Head, we are his Members: Now the duty and office of the Members of this body Myſticall both towards their Head, and one another; may be more clearly ſeen into, if we conſider the office of the Members in the Body Natural, from whence the Church, which is called the body of Jeſus Chriſt, takes this ſigurative denominati<g ref="char:EOLhyphen"/>on:</p>
+               <p>Firſt, The Members of the bo<g ref="char:EOLhyphen"/>dy
+<pb n="55" facs="tcp:119639:36"/>Naturall have a very ſpecial care of the Head, as of their prin<g ref="char:EOLhyphen"/>cipall and chief part, without which they cannot ſubſiſt: there<g ref="char:EOLhyphen"/>fore the Members will endanger themſelves to ſecure their head: If a blow be made at the head, the hand or arm will interpoſe it ſelf, and receive the blow or wound upon it ſelf, rather than it ſhould fall upon the head: So the Mem<g ref="char:EOLhyphen"/>bers of the Church of Jeſus Chriſt, ought to have a moſt ſpeciall care of him their head: Is Jeſus Chriſt their head made at? Do any go about to wound him, by ſtriking at his Perſon, Natures, Death, Re<g ref="char:EOLhyphen"/>ſurrection, Aſcenſion, Juſtificati<g ref="char:EOLhyphen"/>on by his blood? O now it is time for all the Members to look about them, to interpoſe betwixt their head and thoſe that ſtrike at him, to vindicate his honour, excellen<g ref="char:EOLhyphen"/>cy, perſon, nature, and the like, as before, againſt all his Enemies and
+<pb n="56" facs="tcp:119639:37"/>Aſſailants that would wound him in any of theſe. Though you may be in never ſo much danger of worldly loſs or dammage by ma<g ref="char:EOLhyphen"/>king ſuch a defence, yet care not where this blow lights, ſo it be warded off your head.</p>
+               <p>It was a noble reſolution of a French Martyr: After many per<g ref="char:EOLhyphen"/>ſwaſions of worldly friends to re<g ref="char:EOLhyphen"/>cant his profeſſion, he conſidering how diſhonorable this would be to Jeſus Chriſt, how his head would be wounded and grieved by ſuch a revolt, puts off all that perſwaded him to ſo ſhamefull an action, with this notable ſaying; <hi>Vivat Chriſtus, pereat Servus,</hi> Let Chriſt live, let his Servant periſh.</p>
+               <p>Every member of Jeſus Chriſt ought to be ſo minded, ready up<g ref="char:EOLhyphen"/>on occaſion at all times to ſay, let me, that am a poor and unworthy member of ſo honourable and ex<g ref="char:EOLhyphen"/>cellent a head, let me be cut off, let
+<pb n="57" facs="tcp:119639:37"/>me ſuffer in my name, eſtate, rela<g ref="char:EOLhyphen"/>tions, let me be impriſon'd, wound<g ref="char:EOLhyphen"/>ed, bleed So my Lord Jeſus Chriſt, my head be not grieved, o he live and be glorified by my bonds, impriſonments, ſcars, bleed<g ref="char:EOLhyphen"/>ings, reproaches, rebukes, let all theſe and a thouſand more befall me.</p>
+               <p>Secondly, The members of the body naturall are guided and go<g ref="char:EOLhyphen"/>vern'd, and move by the direction of the head and follow it; ſo the members of the body of Jeſus Chriſt, the Church, they ought to obſerve the guidance, motion and ſteps of their head to follow his ex<g ref="char:EOLhyphen"/>ample, and tread in his paths, to be heavenly in their diſcourſe, holy in their converſations, as he hath given them an example: every member of this body ought to walk the way of the
+<note n="*" place="margin">1 <hi>Joh.</hi> 2.6.</note> head.</p>
+               <p>Now as to the carriage and duty of Church members towards one another.</p>
+               <pb n="58" facs="tcp:119639:38"/>
+               <p>Firſt, The members of the body naturall they are united, and at peace among themſelves; one arme doth not ſtrike another, one foot doth not ſpurne the other; the eye doth not ſay to the hand I have no need of thee and ſo of the reſt.</p>
+               <p>So the members of the body my<g ref="char:EOLhyphen"/>ſtical, the Church, there ought to be a ſweet harmony betwixt all and every member; Envie, Malice, Ha<g ref="char:EOLhyphen"/>tred, ſpurning at, and reviling one another — theſe things ought not to be heard of in the Church of Je<g ref="char:EOLhyphen"/>ſus Chriſt, becauſe they are all members of his body.</p>
+               <p>Secondly the members of the bodie natural, if ſome be weak or wounded, all the reſt have a ſpecial care of the weak or wounded me<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ber; the whole arme will bind up the broken one, the ſtrong leg will eaſe that thats lame and feeble.</p>
+               <p>This mutuall reſpect there ought to be among the members of the
+<pb n="59" facs="tcp:119639:38"/>body of Chriſt the Church; the whole ought to binde up the bro<g ref="char:EOLhyphen"/>ken, the ſtrong ought to bear the infirmities of the weak, that they may not faile, nor be diſcouraged, nor faint in the way and ſervice of Jeſus Chriſt.</p>
+               <p>Thirdly, The members of the body natural are ready to ſave and ſupport one another, in caſe of any apparent danger; as if one leg trip, or ſtumble, the other will haſt to relieve and ſupport it; ſo the mem<g ref="char:EOLhyphen"/>bers of the Church of Jeſus Chriſt, they ought to be watchfull one o<g ref="char:EOLhyphen"/>ver another, to be ready to ſave &amp; ſupport one another in caſe of ap<g ref="char:EOLhyphen"/>parent danger, as if one member do ſtumble or is ready to fall into errours of opinion or practiſe, the other ſhould be ready to catch at ſuch a falling member, to releive, and ſtrengthen, and ſupport, to hold him up that he may recover, and not utterly fall into ſuch tem<g ref="char:EOLhyphen"/>ptations.</p>
+               <pb n="60" facs="tcp:119639:39"/>
+               <p>Fourthly, The Members of the body Natural, are ready to ſupply according to their power, to each particular member what it ſtands in need of: So the Members of the body of Chriſt, the Church, theſe ought to be ready to the utmoſt of their ability to ſupply and re<g ref="char:EOLhyphen"/>lieve the wants of other fellow-Members, whoſe neceſſities crave it: As we are men we are com<g ref="char:EOLhyphen"/>manded to do good to <hi>all,</hi> this is <hi>humanity,</hi> as we are Members of the Church of Chriſt we are en<g ref="char:EOLhyphen"/>joyned eſpecially to ſuccour and relieve thoſe that are of the ſame <hi>houſhold;</hi> This is <hi>Chriſtianity.</hi>
+               </p>
+               <p>In the Church of Jeſus Chriſt, we ſhould not every one look on<g ref="char:EOLhyphen"/>ly at his own proper intereſt, but alſo at the welfare one of another. If an Heathen could ſay (&amp; very truly that) <hi>Non ſolum nobis nati ſu<g ref="char:EOLhyphen"/>mus,</hi> We are not only born for our ſelves, but for one another alſo; I
+<pb n="61" facs="tcp:119639:39"/>may ſurely then very confidently ſay, that <hi>Non ſolum nobis renati ſu<g ref="char:EOLhyphen"/>mus,</hi> that we are not <hi>borne again</hi> for our ſelves, but for one another alſo, for the comfort and help and mutuall edification of all our fel<g ref="char:EOLhyphen"/>low Members in Chriſt Jeſus.</p>
+               <p>Laſtly, The Members of the bo<g ref="char:EOLhyphen"/>dy natural do all ſympathiſe with one another, if a finger do but ake, all the Members condole it: So in the Church of Jeſus Chriſt all the Members ſhould condole and ſympathiſe with one aking or af<g ref="char:EOLhyphen"/>flicted Member; Chriſtians, Mem<g ref="char:EOLhyphen"/>bers of the ſame body, ſhould all ſympathiſe and have a ſhare toge<g ref="char:EOLhyphen"/>ther both in one anothers croſſes and comforts, Rom. 15.16. <hi>Rejoyce with thoſe that rejoyce, &amp; weap with thoſe that weep, be of the ſame mind one towards another.</hi> The Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt our head ſympathiſes with all &amp; every of his poor mem<g ref="char:EOLhyphen"/>bers, Iſa. 63.9. <hi>In all their afflictions he is afflicted.</hi>
+               </p>
+            </div>
+            <div n="8" type="section">
+               <pb n="62" facs="tcp:119639:40"/>
+               <head>
+                  <hi>Sect.</hi> VIII.</head>
+               <p>FRom what hath been ſaid in relation to the Solution of the Fourth Queſtion, it appears that the firſt conſtitution, or planting, or gathering of the Churches in <hi>England</hi> was right and orderly, ac<g ref="char:EOLhyphen"/>cording to the Scripture-rule, and way of the Apoſtles, in that caſe; from whence I conclude with that Reverend Divine Mr. <hi>Cotton,</hi> (as before) that the great work of the Miniſters of Jeſus Chriſt in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> now, is not to conſtitute and gather Churches anew, as if there had never been any before: But rather to labour to reform and purge and purifie thoſe Churches which were at firſt founded and built upon the foundation of the Apoſtles and the Prophets, Jeſus
+<pb n="63" facs="tcp:119639:40"/>Chriſt himſelfe being the chief Corner ſtone: I ſay to reform &amp; pu<g ref="char:EOLhyphen"/>rifie thoſe from that droſs and tin, thoſe many corruptions which time &amp; neglect of diſcipline hath contracted.</p>
+               <p>Therefore I ſhall declare what I conceive as to the way that every particular Church ought to take in this caſe; That is what is now to be done by every particular Church in this land that deſires to be a true reformed and refined Church of Jeſus Chriſt.</p>
+               <p>It muſt needs by all be granted, that we have, even all the particu<g ref="char:EOLhyphen"/>lar Churches and Congregations in this Land,
+<note place="margin">
+                     <hi>Rom.</hi> 3.13.</note> I ſay <hi>that we have all ſinned and come ſhort of the glory of God, that our unfruitfulneſſe under Ordinances, our neglect of diſcipline, our not ſanctifying the Sabbath, our careleſſe and unchriſtianlike con<g ref="char:EOLhyphen"/>verſations might juſtly have provo<g ref="char:EOLhyphen"/>ked God to have ſent us a bill of di<g ref="char:EOLhyphen"/>vorce,
+<pb n="64" facs="tcp:119639:41"/>to have ſent his Meſſengers to us with a</hi> Loammi <hi>and a</hi> Loruhamah, <hi>plead with your mother, plead, for ſhe is not my wife,</hi>
+                  <note place="margin">
+                     <hi>Hoſ.</hi> 2.12.</note> 
+                  <hi>neither am I her Hus<g ref="char:EOLhyphen"/>bend.</hi>
+               </p>
+               <p>Therefore, ſeeing we ſtand char<g ref="char:EOLhyphen"/>ged before God with ſo many high and heinous provocations, it is ſure<g ref="char:EOLhyphen"/>ly high time for every particular congregation in <hi>England,</hi> that is called by the name of a Church, and deſires truly to be ſuch, to meet God in the way with a peace-offer<g ref="char:EOLhyphen"/>ing in their hands, that the juſt in<g ref="char:EOLhyphen"/>dignation of the Lord may be tur<g ref="char:EOLhyphen"/>ned away from them, that they fall not by their iniquities, and become as dung upon the earth.</p>
+               <p>We read of the * prodigall ſon after a long time of diſobedience to his Father,
+<note place="margin">
+                     <hi>Luk.</hi> 
+                     <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.17</note> that when he came to himſelfe, he bethought him of this way to be reconciled to his Father again, <hi>I will go, ſaith he, unto my Fa<g ref="char:EOLhyphen"/>ther, and will ſay unto him, Father I
+<pb n="65" facs="tcp:119639:41"/>have ſinned againſt heaven &amp; before thee, and am no more worthy to be cal<g ref="char:EOLhyphen"/>led thy ſon; Thus he humbling him<g ref="char:EOLhyphen"/>ſelf, and confeſſing his fault, his father welcomes him gladly: This my ſon was dead and is alive, was loſt and is found.</hi>
+               </p>
+               <p>Here is a patterne, not onely for one prodigall ſonne or daughter, but for a prodigall aſſembly, or Congregation alſo to be reconci<g ref="char:EOLhyphen"/>led to God their Father.</p>
+               <p>Let a particular Church or con<g ref="char:EOLhyphen"/>gregation of people, that by their turning of grace into wontonneſs and abuſe of ſpirituall mercies, have given God juſt occaſion to diſown them: I ſay, when theſe come to themſelves, to have a ſight and ſence of their own ſtate, and of the danger thereof, that is of their not being reconciled to God, and cleaving more cloſe to him, let them gathering them<g ref="char:EOLhyphen"/>ſelves together;</p>
+               <pb n="66" facs="tcp:119639:42"/>
+               <p>Firſt, Humble themſelves be<g ref="char:EOLhyphen"/>fore God, freely confeſſing their many provocations, the want of love, of zeal, of holy walking ac<g ref="char:EOLhyphen"/>cording to the Statutes and Ordi<g ref="char:EOLhyphen"/>nances of the Lord Jeſus, their breach of Covenant with God, which they made in Baptiſme, let them ſay, <hi>Father we have ſinned a<g ref="char:EOLhyphen"/>gainſt heaven and before thee, &amp; are not worthy the name of thy Church, or to be called thy people;</hi> let them confeſſe the ſins of their fore<g ref="char:EOLhyphen"/>fathers, the generations before them, let them humble themſelves for theſe, and their own imitation of them; Thus did the Church of the Jewes in the dayes of <hi>Nehemi<g ref="char:EOLhyphen"/>ah,</hi> and <hi>Ezra,</hi> being ſenſible of their Backſlidings and Spiritual Forni<g ref="char:EOLhyphen"/>cations, and the danger they were in by reaſon of theſe; They aſ<g ref="char:EOLhyphen"/>ſembled themſelves, they confeſt their ſins, and the ſins of their fa<g ref="char:EOLhyphen"/>thers, confeſſing God to be juſt in
+<pb n="67" facs="tcp:119639:42"/>all that he brought upon them, <hi>Howbeit thou art juſt in all that is brought upon us,</hi>
+                  <note place="margin">
+                     <hi>Neh. c.</hi> 93 3</note>
+                  <note place="margin">
+                     <hi>Ezek.</hi> 10.9.</note> 
+                  <hi>for thou haſt done right, but we have done wickedly.</hi>
+               </p>
+               <p>Secondly, Let every particu<g ref="char:EOLhyphen"/>lar Church or Congregation re<g ref="char:EOLhyphen"/>new their Covenant with God, e<g ref="char:EOLhyphen"/>ven that Covenant they made with him in Baptiſme, to forſake the world, the fleſh, the Devil, profeſſing their ſorrow and repen<g ref="char:EOLhyphen"/>tance for the breach of it, and ſo<g ref="char:EOLhyphen"/>lemnly engaging to obſerve it bet<g ref="char:EOLhyphen"/>ter for the time to come, in keep<g ref="char:EOLhyphen"/>ing a more ſtrict watch over them<g ref="char:EOLhyphen"/>ſelves, and one another, in for<g ref="char:EOLhyphen"/>ſaking all ungodlineſs and world<g ref="char:EOLhyphen"/>ly luſts, and living more ſoberly, more godly, more righteouſly in this preſent world, as becometh Chriſtians &amp; the profeſſed Mem<g ref="char:EOLhyphen"/>bers of the Church of Jeſus Chriſt: Thus did alſo the Church of the Jewes; you heard before that in relation to their better reformati<g ref="char:EOLhyphen"/>on
+<pb n="68" facs="tcp:119639:43"/>and turning to God, they aſ<g ref="char:EOLhyphen"/>ſembled themſelves together, and humbled themſelves before the Lord, confeſſing their ſins and the ſins of their fathers, and to this they added a ſolemn renewing of their * Covenant,
+<note place="margin">
+                     <hi>Nehe.</hi> 9 38. 9 2.</note> or a new enga<g ref="char:EOLhyphen"/>ging to God to walk more order<g ref="char:EOLhyphen"/>ly before him for the time to come.</p>
+               <p>Thirdly, Let them ſeparate themſelves from <hi>Achans;</hi> I mean, let every particular Congregati<g ref="char:EOLhyphen"/>on of Gods people put out from a<g ref="char:EOLhyphen"/>mongſt them all the openly ſcan<g ref="char:EOLhyphen"/>dalous, ungodly, and prophane, for theſe are <hi>botches</hi> and <hi>boiles</hi> of a Church, the dead and withered branches, which ought to be cut off by the ſentence of excommu<g ref="char:EOLhyphen"/>nication, 1 <hi>Cor.</hi> 5.1, 2. <hi>Rev.</hi> 18.4. <hi>Nehem.</hi> 9.38.</p>
+            </div>
+            <div n="9" type="section">
+               <pb n="69" facs="tcp:119639:43"/>
+               <head>
+                  <hi>Sect</hi> IX.</head>
+               <p>HAving ſpoken as to the way of refining and reforming a Church, I ſhall now uſe a word of Exhortation, in generall to all the Congregations of this Land, called by the name of Churches, eſpeci<g ref="char:EOLhyphen"/>ally to my own Congregation, to ſtir up, and encourage you to ſo great, ſo good, ſo neceſſary, ſo ac<g ref="char:EOLhyphen"/>ceptable a work to God as this.</p>
+               <p>It is true, that by being a true reformed, refined Church of Jeſus Chriſt, you become engaged into many Duties, as you have heard * before: But for your encourage<g ref="char:EOLhyphen"/>ment, conſider alſo you become inveſted into many priviledges, a few of which I ſhall (by Gods help) give you an account of.</p>
+               <p>Firſt, If you be truly Members
+<pb n="70" facs="tcp:119639:44"/>of the Church of Jeſus Chriſt,
+<note place="margin">Priviledge of a true Church</note> then you ſtand to him in the rela<g ref="char:EOLhyphen"/>tion of a <hi>Spouſe,</hi> a <hi>Wife,</hi>— then your <hi>Maker</hi> is your <hi>Husband. — I have eſpouſed you to one Husband</hi> ſaith the Apoſtle, meaning Jeſus Chriſt. The Church is called <hi>Cant.</hi> 4.8. the <hi>Love, the Spouſe of Jeſus Chriſt.</hi>
+               </p>
+               <p>Now by being the Spouſe of Jeſus Chriſt, by being married un<g ref="char:EOLhyphen"/>to him by Grace, and ſo forſaking all our <hi>Beloveds</hi> for his ſake, as the world, ſin with all the luſts and pleaſures of it; as a wife forſakes all <hi>Beloveds,</hi> as Father, Mother,— to follow her Husband; I ſay in ſo doing you become in veſted in<g ref="char:EOLhyphen"/>to and intereſted in all the priviled<g ref="char:EOLhyphen"/>ges that belong to a <hi>Spouſe</hi> or <hi>wife</hi> by the marriage of her <hi>husband.</hi>
+               </p>
+               <p>Firſt,
+<note place="margin">Firſt privi<g ref="char:EOLhyphen"/>ledge.</note> a <hi>Spouſe</hi> or <hi>Wife</hi> hath in<g ref="char:EOLhyphen"/>tereſt in all the relations, Friends, kindred of her <hi>Husband,</hi> his friends are her friends, his kindred her
+<pb n="71" facs="tcp:119639:44"/>kindred, his ſervants are her ſer<g ref="char:EOLhyphen"/>vants, his poſſeſſions her poſſeſſi<g ref="char:EOLhyphen"/>ons; then if you be eſpouſed to Je<g ref="char:EOLhyphen"/>ſus Chriſt, if he be your husband, if this myſticall knot be ried be<g ref="char:EOLhyphen"/>twixt him and you, then all his is yours, all Chriſts is yours, his kin<g ref="char:EOLhyphen"/>dred your kindred, his father your father, his God your God, <hi>My Fa<g ref="char:EOLhyphen"/>ther and your Father, my God and your God,</hi> Joh. 20.17. Now you need not ſtand afar off with the fearfull Publican, but come in boldly and ſay, <hi>my God my Father:</hi> Then his friends are your friends, even all the Saints and members of Jeſus Chriſt upon earth, whether <hi>Pauls or Apollos, or Cephaſes,</hi> all are yours, all pray for you, all rejoyce over you, all his friends will be your friends. Then his ſervants become your ſervants, his attendants be<g ref="char:EOLhyphen"/>come your attendants; his ſervants and attendants are the glorious Angels, <hi>Mat.</hi> 4.11. and theſe think
+<pb n="72" facs="tcp:119639:45"/>it no debaſement to wait upon the Spouſe of their maſter: are they not called the Saints, Angels, <hi>Mat.</hi> 18.10. <hi>Their Angels do alwayes be<g ref="char:EOLhyphen"/>hold the face of my Father which is in Heaven.</hi> Then his poſſeſſion become your poſſeſſion; <hi>Heaven, Gods right hand, glory; fullneſs of joy, pleaſure for evermore</hi>— all theſe you have a right unto by the right of your husband Jeſus Chriſt.</p>
+               <p>Secondly,
+<note place="margin">A ſecond priviledge.</note> Tis a great priviledg not to need to fear in the moſt dangerous of times and ſeaſons; this is your priviledge, if members of the Church of Chriſt, you need never fear or be diſcouraged, be the times never ſo evill or danger<g ref="char:EOLhyphen"/>ous; when the times look lowring, threaten war, famine, peſtilence— and then what fear and ſhaking is there among worldly men, men unintereſted in Chriſt, whoſe help, and hope is onely in this life, how do they then run to and fro, ever
+<pb n="73" facs="tcp:119639:45"/>at their wits end, <hi>Their hearts fai<g ref="char:EOLhyphen"/>ling them for fear, and for looking af<g ref="char:EOLhyphen"/>ter thoſe things that are coming on the earth.</hi> as our Lord Jeſus ſpeaks <hi>Luk.</hi> 27.25, 26. Thus ſhall it be now in theſe laſt times.</p>
+               <p>But if you be true members of the Church of Jeſus Chriſt, you need not fear nor be diſmayed at any troubles or changes that hang over the world; though there be ſignes in the ſun, in the moon, in the ſtars, though there be in the earth <hi>diſtreſſe of nations with per<g ref="char:EOLhyphen"/>plexity, though the ſea and the waves roar, yea though the earth be moved, and the hills leape one againſt ano<g ref="char:EOLhyphen"/>ther,</hi> Yet our Lord Jeſus ſaith un<g ref="char:EOLhyphen"/>to his Church and every member of it, Luke 12.33. <hi>Fear not little flock, for it is your Fathers will to give you a Kingdome;</hi> Though your fa<g ref="char:EOLhyphen"/>ther <hi>ſhake</hi> the kingdoms of the world, yet your kingdome ſhall re<g ref="char:EOLhyphen"/>maine <hi>unſhaken.</hi>
+               </p>
+               <pb n="74" facs="tcp:119639:46"/>
+               <p>Therefore, <hi>David</hi> Heb. 12.28. <hi>The Lord is my ſalvation, whom ſhall I fear? the Lord is the ſtrength of my life, of whom ſhall I be afraid</hi> Pſ. 27.1. <hi>though an hoſt ſhould incamp a<g ref="char:EOLhyphen"/>gainſt me, my heart ſhall not fear, though war ariſe againſt me, in this will I be confident.</hi>
+               </p>
+               <p>And again 'tis the language of the Church profeſſing her confi<g ref="char:EOLhyphen"/>dence in God, <hi>Pſ.</hi> 46.2. <hi>We will not fear though the earth be removed, and though the mountaines be carried into the midſt of the ſea, though the waters thereof roar, and be troubled, though the mountains ſhake with the ſwell<g ref="char:EOLhyphen"/>ings thereof.</hi> And again the Pſal<g ref="char:EOLhyphen"/>miſt ſpeaking of a member of Jeſus Chriſt ſaith, Pſ. 112.7. <hi>He ſhall not he afraid of evil tidings, his heart is fixt trusting in the Lord.</hi> This is the priviledge of a Saint, he needs fear no news, he needs not be afraid of any tidings, though they tell him the <hi>earth removes, and the mountains
+<pb n="75" facs="tcp:119639:46"/>ſhake,</hi> yet he ſpeaks not, for his <hi>heart is fixt truſting in the Lord.</hi>
+               </p>
+               <p>Thirdly,
+<note place="margin">A third pri<g ref="char:EOLhyphen"/>viledge of a Saint.</note> If ye be true members of the Church of Jeſus Chriſt youneed not fear the curſe of the law, you need not fear hell, death, judgment which is ſo terrible &amp; dreadfull to the wicked: O what would not a wicked man give when he lieth upon his Death-bed, and ready to give up the ghoſt, terrified with ap<g ref="char:EOLhyphen"/>proaching death and judgment, I ſay what would not he give to be certaine of his freedome from con<g ref="char:EOLhyphen"/>demnation, that he might <hi>die the death of the righteous,</hi> look death in the facewith boldneſs, and comfort ſurely he would give a world, if he had it for this priviledge, which ſome have upon their death-beds confeſt.</p>
+               <p>All the true members of Jeſus Chriſt (though they may want world<g ref="char:EOLhyphen"/>ly comforts, and priviledges) yet they have this priviledge (which is worth a world fo all other) they
+<pb n="76" facs="tcp:119639:47"/>need not fear death, or judgment, their peace is made, there is no <hi>Condemnation, Rom.</hi> 1.8. to them therefore they cry; <hi>O death where is thy ſting, O grave where is thy vi<g ref="char:EOLhyphen"/>ctory,</hi> 1 Cor. 4.44.</p>
+               <p>They look upon <hi>death</hi> with com<g ref="char:EOLhyphen"/>fort, and upon the <hi>grave</hi> without fear, knowing that their <hi>Redeemer</hi> lives, and that at the laſt day their bodies ſhall riſe again to live for e<g ref="char:EOLhyphen"/>ver with the Lord.</p>
+               <p>Fourthly,
+<note place="margin">A fourth priviledg.</note> If ye be true members of the Church of Jeſus Chriſt, you need not, neither ſhall ye fear the greateſt ſhaking that ever ſhall be, I mean the ſhaking both of heaven and earth, when Chriſt our Lord ſhall come to judgement, <hi>yet once more, and I ſhake not the earth but the heaven alſo,</hi> Heb. 12.26.</p>
+               <p>O when this laſt and great ſhak<g ref="char:EOLhyphen"/>ing ſhall be (which to be neer at hand all theſe leſſer ſhakings do portend) when the earth ſhall burn
+<pb n="77" facs="tcp:119639:47"/>as ſtubble under his feet, and the Elements melt with fervent heat, <hi>When there ſhall be a great earthquake, and the Sun become black as ſackcloth of hair, and the moon become as blood, and the ſtars fall from heaven, and the heavens depart as a ſcrole when it is rouled together, and every moun<g ref="char:EOLhyphen"/>tain and Iland removed out of its place,</hi> Rev. 6.12. 2 Pet. 3.10.</p>
+               <p>What would not then a wicked profane perſon, that hath alwayes before mock't at the Saints of Jeſus Chriſt, now give to be as one of them? O how will he curſe himſelf that ever he was ſuch a mad man to ſlight preaching, and coming into Church-ſociety, and not to have conſidered that he muſt come to judgment! how at this great and fearfull day of the Lord, which ſhall be ſo terrible to all the wicked of the world, <hi>Rev.</hi> 6.15. <hi>That the tribes of the earth ſhall mourne, and the Kings of the great men, and the
+<pb n="78" facs="tcp:119639:48"/>rich men,</hi>
+                  <note place="margin">
+                     <hi>Rev.</hi> 6.15.</note> 
+                  <hi>and the captaines, and the mighty men, and every bondman and every freeman ſhall hide themſelves in dens and in the rocks of the moun<g ref="char:EOLhyphen"/>taines, and ſhall ſay to the mountaines and rocks fall on us and hide us from the face of him that ſitteth on the throne, and from the wrath of the Lamb, for the great day of his wrath is come, and who ſhall be able to stand.</hi>
+               </p>
+               <p>I ſay in this ſo terrible day of the Lord,
+<note place="margin">2 <hi>Theſ.</hi> 1.8.10.</note> ſhall our Lord Jeſus Chriſt hide all his Saints under the hollow of his arme gather them under the covert of his wings, deliver them from the wrath that is to come up<g ref="char:EOLhyphen"/>on all the wicked and ungodly of the world.</p>
+               <p>Though this ſhall be a day of gloomineſs and thick darkneſſe o<g ref="char:EOLhyphen"/>ver all the land of <hi>Egypt,</hi> yet the ſun ſhall ſhine on <hi>Iſrael; Luk.</hi> 21.28. When the ungodly ſhall at this day hang down, the Saints ſhall lift
+<pb n="79" facs="tcp:119639:48"/>up their heads, becauſe their re<g ref="char:EOLhyphen"/>demption is at hand.</p>
+               <p>Fifthly, If a Saint of Jeſus Chriſt,
+<note place="margin">A fifth pri<g ref="char:EOLhyphen"/>viledge.</note> what ever befalls thee, ſhall befall thee for thy good, whether ſmiles or frownes, croſſes or comforts, riches or poverty, ſickneſs or health, all theſe ſhall be advantage to thee — <hi>Rom.</hi> 8.28. <hi>All things ſhall work together for good to them that love God.</hi> Thus highly priviledg'd are all the members and Saints of Jeſus Chriſt, therefore I conclude, <hi>Happy are the people whoſe God is the Lord.</hi>
+               </p>
+               <p>And now let me ſpeake familiar<g ref="char:EOLhyphen"/>ly to you, are not all theſe as before high priviledges? are they not worth the traveling for? O conſider they are brought home unto you, they are offered you at your doors, <hi>and how can ye eſcape if ye neglect ſo great ſalvation?</hi> Such high privi<g ref="char:EOLhyphen"/>ledges profer'd you, on ſuch honou<g ref="char:EOLhyphen"/>rable and eaſie conditions? there<g ref="char:EOLhyphen"/>fore ſlack not, come into the
+<pb n="80" facs="tcp:119639:49"/>Church of Jeſus Chriſt, flock like Doves to theſe windows, and all theſe priviledges ſhall be yours. Now will any man for the pleaſure of ſin which is but for a ſeaſon, for the love of drunkenneſſe, of un<g ref="char:EOLhyphen"/>cleanneſſe or the like — out him<g ref="char:EOLhyphen"/>ſelf of the Church? cauſe the mem<g ref="char:EOLhyphen"/>bers of Jeſus Chriſt to reject him as an Atheiſt, an Infidel? I tell this per<g ref="char:EOLhyphen"/>ſon what ere he be, that hee'l ſadly rue this one day, hee'l curſe that fatall love to ſin, thoſe ſenſuall de<g ref="char:EOLhyphen"/>lights and pleaſures that now coſt him his ſalvation, hee'l then be rea<g ref="char:EOLhyphen"/>dy for very grief, and madneſſe at himſelf, to put out thoſe eyes that have look't upon a woman to luſt after her, to bite that tongue that hath ſo often cur'ſt and ſworne and blaſphem'd the holy name of the Lord, ſcoft at holineſs; and mockt at the aſſemblings of his Saints; to cut that throat that hath ſo often poured down wine and ſtrong
+<pb n="81" facs="tcp:119639:49"/>drink till he hath been inflam'd by it, and heightened to the acting of any impiety with a ſtrangely bru<g ref="char:EOLhyphen"/>tiſh confidence: Thus I ſay he that now refuſeth theſe great privi<g ref="char:EOLhyphen"/>ledges profferd to him, and for the love of ſin ſhuts himſelf out of the Church of Chriſt, a day will come when he ſhall wiſh, O that I had not ſat in the chaire of the ſcorner! O that I had joyn'd my ſelf unto the Congregation of the godly, then ſhall ſorrow and ſighing take hold on him, when he ſhall ſee thoſe that have liv'd ſoberly and righteouſly and godly in their ge<g ref="char:EOLhyphen"/>nerations own'd by Jeſus Chriſt, with a <hi>come ye bleſſed,</hi> and led by him by the hand to ſit down with <hi>Ahraham, Iſack</hi> and <hi>Jacob,</hi> in the kingdome of God, and he himſelf caſt out.</p>
+               <p>Think of this betime, all ye that as yet forget God, and <hi>Hoſ.</hi> 14.2. take with you words and turn un<g ref="char:EOLhyphen"/>to
+<pb n="82" facs="tcp:119639:50"/>the Lord,
+<note place="margin">
+                     <hi>Hoſ.</hi> 14.2.</note> ſay unto him take away all iniquity, and receive us graciouſly. But if ye will not obey God, nor hearken to the voice of his Miniſters that beſeech you in Chriſts ſtead to be reconciled to God, be ye ſure of this, that a day will come when Jeſus Chriſt ſhall appear
+<note place="margin">2 <hi>Theſ.</hi> 1.9.</note> in flaming fire to take ven<g ref="char:EOLhyphen"/>gance on you, becauſe ye have not obey'd the Goſpel, yea, and ſhall ſay, <hi>Bring hither thoſe mine enemies that would not that I ſhould reign over them,</hi>
+                  <note place="margin">
+                     <hi>Luk.</hi> 19.27.</note> 
+                  <hi>and ſlay them before me.</hi>
+               </p>
+            </div>
+            <div n="10" type="section">
+               <head>
+                  <hi>Sect.</hi> X.</head>
+               <p>AS there are many priviledges that the Saints are intereſted in, ſo there are many and ſad penal<g ref="char:EOLhyphen"/>ties which ſhall be inflicted upon all thoſe that do contemn the goſ<g ref="char:EOLhyphen"/>pel, and ſeparate themſelves from the Church and Communion of Saints here upon earth.</p>
+               <pb n="83" facs="tcp:119639:50"/>
+               <p>Firſt,
+<note place="margin">1. <hi>Penalty.</hi>
+                  </note> Theſe ſhall be ſeparate from the preſence of the Lord, they ſhall never ſee God;—
+<note n="*" place="margin">
+                     <hi>Mat.</hi> 25.41</note> 
+                  <hi>depart from me ye workers of iniquity:</hi>
+                  <note n="*" place="margin">
+                     <hi>Heb.</hi> 12.14.</note> — <hi>without holineſſe no man ſhall ſee God.</hi>
+               </p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> Theſe ſhall be puni<g ref="char:EOLhyphen"/>ſhed with a very ſore puniſhment,
+<note n="*" place="margin">
+                     <hi>Heb.</hi> 10.29.</note> — <hi>Of how much ſorer puniſhment ſuppoſe ye ſhall he be thought wor<g ref="char:EOLhyphen"/>thy, who hath troden under foot the Son of God, and hath counted the blood of the Covenant, wherewith he was ſanctified an unholy thing, and hath done deſpite to the Spirit of grace?</hi> It ſhall be more tolerable at the day of Judgment for <hi>Sodoxie</hi> and <hi>Commorrah,</hi> than for thoſe that contemne the Goſpel.</p>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> Their puniſhment ſhall be an everlaſting puniſhment, not for a day or a moneth or a year, but theſe ſhall be
+<note n="*" place="margin">
+                     <hi>Mat.</hi> 10.15</note> 
+                  <hi>puniſhed with ever<g ref="char:EOLhyphen"/>laſting deſtruction from the preſence of the Lord, and from the glory of the
+<pb n="84" facs="tcp:119639:51"/>power.</hi>
+                  <note place="margin">2 <hi>Theſ.</hi> 1.9. <hi>Mat.</hi> 25.41</note> — <hi>Go ye curſed into everlaſt<g ref="char:EOLhyphen"/>ing fire.</hi>
+               </p>
+               <p>Fourthly, Theſe ſhall be turned into
+<note n="*" place="margin">4. <hi>Pſ.</hi> 9, 17. <hi>Mat.</hi> 25.30.</note> hell, a place of horror and darkneſſe, where ſhall be <hi>weeping and gnaſhing of teeth:</hi> And now let me ask you, what do you think of all theſe ſad judgments and penal<g ref="char:EOLhyphen"/>ties? are ye not afraid of them? are you not afraid to be ſeparate from the preſenc<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#MURP" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> he Lord? are ye not afraid to b<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> puniſhed with an everlaſting puniſhment? are ye not afraid to be turnd into hell, a den of ſmoke and darkneſſe; Ah! what heart of ſtone will not break at the conſideration of theſe things? <hi>Who can dwell with devouring fire?</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 33.14.</note> 
+                  <hi>who can dwell with everlaſting burnings?</hi>
+                  <note place="margin">
+                     <hi>Jam.</hi> 2.19.</note>
+               </p>
+               <p>The Devils tremble at the thought of theſe, will men be worſe than Devils?</p>
+            </div>
+            <div n="11" type="section">
+               <pb n="85" facs="tcp:119639:51"/>
+               <head>
+                  <hi>Sect.</hi> XI.</head>
+               <p>THerefore Beloved, ſeeing we ſhall partake of ſuch great pri<g ref="char:EOLhyphen"/>viledges, if we reforme and turne to God, yea, ſeeing there is much more in ſtore for us than is as yet diſcoverable, for—<hi>eye hath not ſeen, nor ear heard, neither hath it entred into the thought of man what God hath prepared for them that love and fear him.</hi> Seeing we ſhall eſcape ſuch condemnation, and judgment thorough grace in ſo reforming our ſelves as before,
+<note place="margin">
+                     <hi>Heb.</hi> 12.1.</note> 
+                  <hi>O let us then lay aſide every weight, and the ſin that doth ſo eaſily beſet us, and let us run with patience the race that is ſet be<g ref="char:EOLhyphen"/>fore us.</hi>
+                  <note place="margin">
+                     <hi>Joſh.</hi> 24.15.</note> Let us of this Congregati<g ref="char:EOLhyphen"/>on imitate <hi>Joſhua,</hi> let us chuſe with him, let us ſay unto all the people, and congregations round about us,
+<pb n="86" facs="tcp:119639:52"/>chuſe you whom ye will ſerve, chuſe ye whether ye will reforme or not reforme your ways, chuſe you whether you will own us or diſown us, applaud us or hiſs at us, countenance us or contemne us, joyn with us or ſeparate from us, ſtrengthen us, or labour to make our hands feeble, ſay we do well, or ſay we do ill, Speak friendly to us or ſcoff at us, yet we are reſolv'd, what we will do, that we will leave <hi>Aſh<g ref="char:EOLhyphen"/>terch &amp; Baſaam.</hi> That we will ſay, <hi>what have we to do with Idols?</hi> And reforme and repent and engage our ſelves afreſh to ſerve the Lord.</p>
+               <p>Which that we may do, let us put in practice the rules before laid downe;</p>
+               <p>Firſt, Aſſembling our ſelves to<g ref="char:EOLhyphen"/>gether, let us ſolemnly and ſorrow<g ref="char:EOLhyphen"/>fully confeſſe and bewaile our own ſins, and the ſins of our forefathers before God,
+<note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#MURP" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>
+                     </hi> 9.6.</note> let us ſay <hi>our God, we bluſh and are aſhamed to lift up our
+<pb n="87" facs="tcp:119639:52"/>faces unto thee, for our iniquities are increaſed over our heads and our treſ<g ref="char:EOLhyphen"/>paſſe is grown up unto the very hea<g ref="char:EOLhyphen"/>vens:</hi> And having thus humbled our ſelves before God let us,</p>
+               <p>Secondly, Renew our cove<g ref="char:EOLhyphen"/>nant with God, our Covenant made ſo long ſince in baptiſme, which all of us have broken, and backſlided from: let us ſay, truth Lord, other Lords beſides thee have had dominion over us; the devil, the world, the luſts of the fleſh have ruled over us; thou, O Lord, maiſt juſtly charge us to have forgotten thee, and to have dealt falſly with thee in thy covenant, and therefore becauſe of all this we make a ſure Covenant with thee for the time to come, that we will have no other Lord beſides thee, that we will walke in a more pro<g ref="char:EOLhyphen"/>feſſed ſubjection to all thy holy ordinances, more carefully watch<g ref="char:EOLhyphen"/>ing over our ſelves and one ano<g ref="char:EOLhyphen"/>ther, that <hi>being clenſed from all fil<g ref="char:EOLhyphen"/>thineſs
+<pb n="88" facs="tcp:119639:53"/>of the fleſh and ſpirit,</hi>
+                  <note place="margin">2 <hi>Cor.</hi> 7.1.</note> 
+                  <hi>we may perfect holineſs in thy fear.</hi> And ha<g ref="char:EOLhyphen"/>ving thus renued our covenant, and engaged our ſelves unto the Lord to be his, let us endeavour,</p>
+               <p>Thirdly to purge out from a<g ref="char:EOLhyphen"/>mongſt us every thing that <hi>defileth</hi> and is <hi>unclean,</hi> for a <hi>little leaven lea<g ref="char:EOLhyphen"/>veneth the whole lump;</hi> one <hi>Achan</hi> may diſtreſſe a whole <hi>Iſrael,</hi> one <hi>in<g ref="char:EOLhyphen"/>ceſtuous perſon,</hi> ſuch as was in the Church at Corintb, one adulterer, drunkard or the like in a Church, if countenanced and tollerated by the ſame, and not reproved and dealt withall according to the rule of the Goſpel, may bring wrath and a judgment upon a whole congre<g ref="char:EOLhyphen"/>gation, for by reaſon of ſuch a tol<g ref="char:EOLhyphen"/>leration, and neglect of Goſpel-diſcipline, the Sacrament of the Lords-Supper may be profaned and abuſed, as it was in the Church of Corinth, for which cauſe the Lord puniſht them with ſickneſſe
+<pb n="89" facs="tcp:119639:53"/>and death for — <hi>For this Cauſe</hi> (ſaith the Apoſtle,
+<note place="margin">1 <hi>Cor.</hi> 11.30</note> namely for the profanation of the Lords-Supper <hi>many are ſick and weake among you, and many ſleep.</hi>
+               </p>
+               <p>Therefore it much concernes every particular Church to purge out the old leaven, that they may be a new lump, and not to keep that feaſt with the old leaven, nei<g ref="char:EOLhyphen"/>ther with the leaven of malice, and wickedneſs, leſt the Lord ſtretch out his hand againſt them.</p>
+            </div>
+            <div n="12" type="section">
+               <head>
+                  <hi>Section</hi> XII.</head>
+               <p>BUt methinks I hear ſome ſay, <label type="milestone">
+                     <seg type="milestoneunit">Ob. </seg>
+                  </label> this Yoke is too ſtraite, this burden is too heavy, theſe rules are too ſtrict, reſtraining us of all liberty and freedom, we cannot drink, and be merry but we muſt be reprov'd and—.</p>
+               <p>To theſe I Anſwer: <label type="milestone">
+                     <seg type="milestoneunit">Sol. </seg>
+                  </label> 
+               </p>
+               <pb n="90" facs="tcp:119639:54"/>
+               <p>Firſt, If the way be ſtrait, and ſtrict, 'tis the more like to be Hea<g ref="char:EOLhyphen"/>ven way,
+<note place="margin">
+                     <hi>Mat.</hi> 7.14.</note> for—<hi>ſtrait is the gate and narrow is the way that leads to ever<g ref="char:EOLhyphen"/>laſting life.</hi> If the way propoſ'd were <hi>large</hi> and <hi>broad,</hi> you might well ſuſpect it the way to <hi>hell</hi> and <hi>death,</hi>
+                  <note place="margin">
+                     <hi>Mat.</hi> 7.13.</note> for <hi>wide is that gate and broad is that way.</hi>
+               </p>
+               <p>Secondly, <milestone type="tcpmilestone" unit="unspecified" n="2"/> To ſuch pleaders for unbounded liberty, I ſay <hi>Rejoyce, O yong men in your youth,</hi>
+                  <note place="margin">
+                     <hi>Eccl.</hi> 9.11.</note> 
+                  <hi>and let your hearts be merry — Let the harpe and the violl, and the tabret, and the pipe, and wine be in your feaſts.— But for all this know you ſhall come to judge<g ref="char:EOLhyphen"/>ment.</hi>
+               </p>
+               <p>Thirdly, <milestone type="tcpmilestone" unit="unspecified" n="3"/> To ſuch I ſay, curſed is he that ſaith, The yoke is <hi>ſtrait</hi> that Chriſt Jeſus hath ſaid is <hi>eaſie,</hi> that the burden is <hi>heavy</hi> that he hath ſaid is <hi>light:</hi> Curſed is he that diſcourageth the People of the Lord,
+<note place="margin">
+                     <hi>Mat.</hi> 11.30</note> and brings an <hi>evill re<g ref="char:EOLhyphen"/>port</hi> upon the land of <hi>Canaan; let
+<pb n="91" facs="tcp:119639:54"/>their carcaſes rot in the wilderneſſe, and let them not ſee the ſalvation of the Lord.</hi>
+               </p>
+               <p>Fourthly, <milestone type="tcpmilestone" unit="unspecified" n="4"/> I ſay that the wayes and rules of the Lord, to which we are bound to ſubmit, are not grie<g ref="char:EOLhyphen"/>vous— <hi>his commandments are not grievous.</hi> Theſe reſtrain not ſo,
+<note place="margin">1 <hi>Joh.</hi> 5.3.</note> but that we have liberty ſufficient, li<g ref="char:EOLhyphen"/>berty to eat, to drink, to meet freinds with friends, and to re<g ref="char:EOLhyphen"/>joyce together; yea, if we be ſuch as are received into favour with God, and juſtified by Jeſus Chriſt, there's then cauſe enough for us to rejoyce and be chearfull; the Scriptures then give and en<g ref="char:EOLhyphen"/>courage us to this freedome—
+<note n="*" place="margin">
+                     <hi>Eccleſ.</hi> 9.1.</note> 
+                  <hi>Go thy way, eat thy bread with joy, and drink thy wine with a merry heart, for the Lord now accepteth thy works.</hi> Thus may it be ſaid to any one, that is truly a member of Jeſus Chriſt: The ſer<g ref="char:EOLhyphen"/>vice of the Lord is not <hi>ſlavery</hi> but
+<pb n="92" facs="tcp:119639:55"/>
+                  <hi>freedome.</hi> But here is the madneſs and miſery of men, they account nothing <hi>liberty,</hi> but whats <hi>licenci<g ref="char:EOLhyphen"/>ous;</hi> they account it not liberty to eat and to drink, unleſſe they may eat to <hi>gluttony,</hi> and drink to <hi>drun<g ref="char:EOLhyphen"/>kenneſſe;</hi> no liberty to be merry, unleſſe they may be prophane, curſe and ſwear.</p>
+               <p>But alaſs is this the liberty and freedome you ſo contend for? In<g ref="char:EOLhyphen"/>deed this is <hi>helliſh bondage, helliſh ſlavery;</hi> Is this liberty to be over<g ref="char:EOLhyphen"/>come with wine and ſtrong drink? to have thy legs ſo bound thou canſt not go, thy tongue ſo tyed thou canſt not ſpeak? Thy eyes ſo enflamed thou canſt not ſee? Thy reaſon and underſtanding ſo cap<g ref="char:EOLhyphen"/>tivated and loſt, that tis hard to diſtinguiſh whether man or beaſt? Is this liberty, that thou canſt not be merry, but thou muſt mock God, ſcoff at holineſſe, reproach the Saints? O curſed liberty if
+<pb n="93" facs="tcp:119639:55"/>this be it! This is worſe than that Egyptian bondage that made the Jews ſo ſigh and cry under it; and it would make thee alſo groan un<g ref="char:EOLhyphen"/>der it, wer't thou but in the leaſt ſenſible of thy own condition.</p>
+               <p>Tis the Lord Jeſus Chriſt that by your coming in unto him would ſet you at liberty, make you Free-men; Tis he that pro<g ref="char:EOLhyphen"/>claims <hi>liberty to the captive, the ope<g ref="char:EOLhyphen"/>ning of the priſon,</hi>
+                  <note place="margin">
+                     <hi>Iſa.</hi> 61.2.</note> 
+                  <hi>to them which are bound</hi>—. Jeſus Chriſt would have you Free-men, at liberty; to be ſo much Lords over your ſelves and the creatures, as to eat and drink and not to ſurfet, or be drunken, as to be merry and yet not in ſin; The Devill keeps men in ſlavery, in ſlavery to their luſts, in ſlavery to their paſſions, in ſlavery to their meat, drink, apparell; Oh! It is not liberty you contend for, but bondage; not freedome but ſla<g ref="char:EOLhyphen"/>very; and you will ſee and un<g ref="char:EOLhyphen"/>derſtand
+<pb n="94" facs="tcp:119639:56"/>this, if ever your eyes be opened; for they are now blind<g ref="char:EOLhyphen"/>ed—.
+<note place="margin">2 <hi>Cor.</hi> 44.</note> 
+                  <hi>In whom the God of this world hath blinded the eyes of them which believe not, leſt the light of the glorious goſpel of Chriſt, who is the Image of God, ſhould ſhine unto them.</hi> I ſay if ever your eyes be o<g ref="char:EOLhyphen"/>pened, you will cry out againſt your ſelves for being ſuch <hi>willing ſlaves</hi> to Satan, when you might long ago have been the Lords <hi>free<g ref="char:EOLhyphen"/>men,</hi> Then may I ſay unto you as St. <hi>Paul</hi> to the enlightened Ro<g ref="char:EOLhyphen"/>manes, <hi>What fruit had ye then in thoſe things whereof ye are now aſha<g ref="char:EOLhyphen"/>med?</hi>
+                  <note place="margin">
+                     <hi>Rom.</hi> 6.21.</note> And now to conclude all, I ſay, that, Bleſſed are all they that ſo hear the good word of the Lord as to practiſe it. Bleſſed are they that hearing that there is a Church of Jeſus Chriſt upon earth, how conſtituted, &amp; what it is, do labour and deſire to adde and joyn them<g ref="char:EOLhyphen"/>ſelves unto it, and become true
+<pb n="95" facs="tcp:119639:56"/>members of it. Bleſſed are they that hearing what government our Lord Jeſus Chriſt hath ordain<g ref="char:EOLhyphen"/>ed in and for his Church, think not his yoke uneaſie, nor his burden heavy; but chearfully and wil<g ref="char:EOLhyphen"/>lingly ſubmit to all his holy, juſt, good and reaſonable Commande<g ref="char:EOLhyphen"/>ments. Bleſſed are they that hear<g ref="char:EOLhyphen"/>ing what manner of Perſon thoſe ought to be that are to be received into, or continued in the Church of Jeſus Chriſt as viſible members thereof, do labour to purge and purifie themſelves from all un<g ref="char:EOLhyphen"/>cleanneſſe, both of fleſh and ſpirit, that they may be thought worthy of admittance into ſuch member<g ref="char:EOLhyphen"/>ſhip. Bleſſed are all they that hear<g ref="char:EOLhyphen"/>ing the duty of the members of Jeſus Chriſt towards him their head, and one another as members, do ſet about and practiſe the ſame. Bleſſed are they that hearing the neceſſity of a reformation, the ac<g ref="char:EOLhyphen"/>ceptableneſſe
+<pb n="96" facs="tcp:119639:57"/>of it to God; the profit and priviledges that follow it, if practi<g ref="char:EOLhyphen"/>ſed, The judgments and penalties that are unavoidable, if this be ſlighted, doe ſuddenly and ſeriouſly ſet about this work; 1, By a full and free confeſſion, and a ſad and ſorrowfull lamentation of their ſins before God: 2, By a renew<g ref="char:EOLhyphen"/>ing of their Covenant with God, ente<g ref="char:EOLhyphen"/>ring into a new and ſure engagement to ſerve him: 3, By endeavouring to purge out from among them thoſe obſtinate and unruly perſons that profane holy things, &amp; bring a contempt upon Gods Ordinances: If we that belong to this Congregation be not rebellious and re<g ref="char:EOLhyphen"/>fractory, but obedient and willing to ſet about this work; I dare affirm it, that when we aſſemble our ſelves together, the preſence of our Lord Jeſus ſhall be with us, the bleſſing of the moſt high ſhal be upon us; Then ſhall he crown our years with goodneſs, and his paths drop fatneſs upon us; then inſtead of having that dolefull meſſage—
+<note n="*" place="margin">
+                     <hi>Hoſ.</hi> 2.2.</note> 
+                  <hi>Ye are not my Wife, neither am I your Husband;</hi> we ſhall heare this joyfull ſound from heaven, ſaying, <hi>Ammi, Ruhamah,</hi> ye are my peo<g ref="char:EOLhyphen"/>ple, ye have obtained mercy,</p>
+            </div>
+            <closer>Soli Dei gloria.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
